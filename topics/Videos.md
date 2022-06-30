@@ -27,7 +27,7 @@
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) 🇫🇷 
 * [The future of gradients in SVG](https://www.youtube.com/watch?v=47nhFrI_P8Y)
 * [The SVG Reality by Sebastiaan Deckers](https://www.youtube.com/watch?v=VQ7_MwjPqKs&list=TLnovNiLOsOSo)
-* [Three Ways to animate SVG by CSS-Tricks](http://css-tricks.com/video-screencasts/135-three-ways-animate-svg/)
+* [Three Ways to animate SVG by CSS-Tricks](https://css-tricks.com/video-screencasts/135-three-ways-animate-svg/)
 * [The Wonderful World of SVG by Chris Coyier](https://www.youtube.com/watch?v=tsGa-gcckwY)
 * [Understanding SVG with Inkscape](https://www.youtube.com/watch?v=3jw_ED0_H3Q)
 * [UtahJS - Murphy Randle - A Smattering of Snap.svg](https://www.youtube.com/watch?v=D_ypzPGDtmI)

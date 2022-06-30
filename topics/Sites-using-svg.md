@@ -8,7 +8,7 @@
 * [Gitlab](https://about.gitlab.com/)
 * [guillaumejuvenet.com](https://www.guillaumejuvenet.com/)
 * [initiative.com](http://initiative.com/)
-* [kaipoche.co](http://kaipoche.co/)
+* [kaipoche.co](http://ww17.kaipoche.co/)
 * [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
 * [panizzon.ind.br](http://panizzon.ind.br/)
 * [playgroundinc.com](http://playgroundinc.com/)

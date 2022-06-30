@@ -3,7 +3,7 @@
 
 * [A farewell to css3 gradients](http://www.sitepoint.com/a-farewell-to-css3-gradients/)
 * [Animating SVG gradients](http://designmodo.com/animate-svg-gradients/)
-* [Advanced Gradients for SVG](http://www.svgopen.org/2011/papers/18-Advanced_Gradients_for_SVG/)
+* [Advanced Gradients for SVG](http://www.svgopen.org//papers/18-Advanced_Gradients_for_SVG/)
 * [Basics of SVG Gradients](http://tutorials.jenkov.com/svg/svg-gradients.html)
 * [CSS/SVG Gradient Generator](http://jimbomatic.com/svg-gradient/)
 * [Getting started with SVG Gradients](http://www.sitepoint.com/getting-started-svg-gradients/)

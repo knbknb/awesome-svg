@@ -7,7 +7,7 @@
 * [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
 * [Making SVG Accessible](http://thenewcode.com/1026/Making-SVG-Accessible)
 * [Tips for Creating Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
-* [Using ARIA to enhance SVG accessibility](https://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
+* [Using ARIA to enhance SVG accessibility](https://www.tpgi.com/using-aria-enhance-svg-accessibility/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

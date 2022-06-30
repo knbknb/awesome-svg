@@ -9,10 +9,10 @@
 * [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkpad](https://github.com/sprang/Inkpad) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
-* [Inkscape](http://www.inkscape.org/en/) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
-* [Sketch](http://bohemiancoding.com/sketch/) - $79.99
+* [Inkscape](https://inkscape.org/en/) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+* [Sketch](https://sketch.com) - $79.99
 * [Webcode](http://www.webcodeapp.com/) - $39.99
-* [Gravit Designer](https://www.designer.io) - Free (no charge)
+* [Gravit Designer](https://www.designer.io/en/) - Free (no charge)
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 
 ---

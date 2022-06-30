@@ -1,7 +1,7 @@
 ## Patterns
 > How to use, how they work and some tools to create patterns.
 
-* [An Overview of SVG Patterns](http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html)
+* [An Overview of SVG Patterns](https://blog.adobe.com/dreamweaver/2015/09/svg-patterns)
 * [Backgroundify - Very simple background generator](https://github.com/vltr/bckgrndfy)
 * [Basic of SVG Patterns](http://apike.ca/prog_svg_patterns.html)
 * [How to use SVG Patterns](http://designmodo.com/svg-patterns/)

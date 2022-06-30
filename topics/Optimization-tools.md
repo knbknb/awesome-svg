@@ -1,11 +1,11 @@
 ## Optimizing, Fallbacks and Tools
 > Optimize your SVG, support older browsers and more.
 
-* [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
+* [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
-* [Create Paths Online](http://jxnblk.com/paths/)
-* [deSVG](http://benhowdle.im/deSVG/)
+* [Create Paths Online](https://jxnblk.com/paths/)
+* [deSVG](https://benhowdle.im/deSVG/)
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
 * [Grumpicon](http://www.grumpicon.com/)
@@ -31,7 +31,7 @@
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
-* [SVGeezy](http://benhowdle.im/svgeezy/)
+* [SVGeezy](https://benhowdle.im/svgeezy/)
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
