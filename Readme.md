@@ -3,32 +3,47 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
 > A curated list of SVG, from 2017. Occasionally updated starting for 2022
+>
+> - [Awesome SVG](#awesome-svg)
+  
+SVG Features
 
-- [Awesome SVG](#awesome-svg)
-  - [Accessible SVG](topics/Accessibility.md)
-  - [Animation](topics/Animation.md)
-  - [Books](topics/Books.md)
-  - [Experiments](topics/Experiments.md)
-  - [Filters](topics/Filters.md)
-  - [Follow on Twitter](topics/Follow-twitter.md)
-  - [Gradients](topics/Gradients.md)
-  - [Grunt Plugins](topics/Grunt-plugins.md)
-  - [Gulp Plugins](topics/Gulp-plugins.md)
-  - [Icons](topics/Icons.md)
-  - [Libraries](topics/Libraries.md)
-  - [Masks and Clip-Paths](topics/Masks-clips.md)
-  - [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
-  - [Patterns](topics/Patterns.md)
-  - [Podcasts](topics/Podcasts.md)
-  - [Responsive](topics/Responsive.md)
-  - [Sites using SVG](topics/Sites-using-svg.md)
-  - [Slides](topics/Slides.md)
-  - [Sprites](topics/Sprites.md)
-  - [SVG Software](topics/Softwares.md)
-  - [SVG to Download](topics/Downloads.md)
-  - [Text](topics/Text.md)
-  - [Tutorials](topics/Tutorials.md)
-  - [Videos](topics/Videos.md)
+- [Animation](topics/Animation.md)
+- [Experiments](topics/Experiments.md)
+- [Filters](topics/Filters.md)
+- [Gradients](topics/Gradients.md)
+- [Icons](topics/Icons.md)
+- [Masks and Clip-Paths](topics/Masks-clips.md)
+- [Patterns](topics/Patterns.md)
+- [Slides](topics/Slides.md)
+- [Sprites](topics/Sprites.md)
+- [Text](topics/Text.md)
+- [SVG to Download](topics/Downloads.md)
+
+Software
+
+- [SVG Software](topics/Softwares.md)
+- [Responsive](topics/Responsive.md)
+- [Libraries](topics/Libraries.md)
+- [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
+
+Education
+
+- [Sites using SVG](topics/Sites-using-svg.md)
+- [Follow on Twitter](topics/Follow-twitter.md)
+- [Podcasts](topics/Podcasts.md)
+- [Tutorials](topics/Tutorials.md)
+- [Videos](topics/Videos.md)
+- [Books](topics/Books.md)
+
+Other
+
+- [Accessible SVG](topics/Accessibility.md)
+
+Tools
+
+- [Grunt Plugins](topics/Grunt-plugins.md)
+- [Gulp Plugins](topics/Gulp-plugins.md)
 
 ## Thanks to
 
