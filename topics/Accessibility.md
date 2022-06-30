@@ -1,4 +1,5 @@
 ## Accessible SVG
+
 > How to enhance the accessibility using SVG.
 
 * [Current State of Authoring Accessible SVG](http://schepers.cc/authoring-accessible-svg)
