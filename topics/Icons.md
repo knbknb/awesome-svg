@@ -7,6 +7,7 @@
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
 * [Customizable svg icons css variables](https://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
 * [Evil Icons](http://evil-icons.io/)
+* [Flat Color Icons](https://github.com/icons8/flat-color-icons), Subset of [icons8](https://icons8.com/icons/color)
 * [Feather](https://feathericons.com)
 * [Fontastic](https://fontastic.me/faq)
 * [Glyph Smarticons](https://glyph.smarticons.co/)
@@ -25,7 +26,8 @@
 * [Por que parei de utilizar ícones como fontes](/dev-interior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
 * [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) - Pt-Br
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
-* [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT
+* [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
+* [svg-icon, same](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT
 * [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html)
 * [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)
 * [SVG icons ftw](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
@@ -37,6 +39,8 @@
 * [SVG use with External Source](https://css-tricks.com/svg-use-external-source/)
 * [Useiconic](https://useiconic.com/guides/)
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
+* [SVG Repo](https://www.svgrepo.com/) - bots collect SVG icons and indexes them from various known sources. Searchable
+* [The Noun Project](https://thenounproject.com/search/icons/?iconspage=1&q=panda) - 3 million icons, searchable
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)

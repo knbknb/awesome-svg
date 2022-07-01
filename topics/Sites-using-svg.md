@@ -6,6 +6,7 @@
 * [albinotonnina.com](http://www.albinotonnina.com/) - Personal CV Site - "to scroll down slowly"
 * [StretchSketch](http://www.stretchsketch.com/) - SVG for CNC laser cutters,furniture
 * [creative-mob.com](http://www.creative-mob.com/) - marketing agency located in San Diego, California.
+* [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/) - Homepage of "Awesome SVG"-List Creator W. Justen.
 
 ### Not really worth considering
 
