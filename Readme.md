@@ -4,43 +4,41 @@
 
 > A curated list of SVG, from 2017. Occasionally updated, starting in 2022.  
 > Most pages list Software, Specifications, Resources and Articles about the topics.
-  
-SVG Features
 
-- [Animation](topics/Animation.md)
-- [Experiments](topics/Experiments.md)
-- [Filters](topics/Filters.md)
-- [Gradients](topics/Gradients.md)
-- [Icons](topics/Icons.md)
-- [Masks and Clip-Paths](topics/Masks-clips.md)
-- [Patterns](topics/Patterns.md)
-- [Slides](topics/Slides.md)
-- [Sprites](topics/Sprites.md)
-- [Text](topics/Text.md)
-- [SVG to Download](topics/Downloads.md)
+- 43 [Animation](topics/Animation.md)
+- 29 [Experiments](topics/Experiments.md)
+- 14 [Filters](topics/Filters.md)
+- 12 [Gradients](topics/Gradients.md)
+- 08 [Masks and Clip-Paths](topics/Masks-clips.md)
+- 14 [Patterns](topics/Patterns.md)
+- 08 [Sprites](topics/Sprites.md)
+- 14 [Text](topics/Text.md)
+
+Images
+
+- 14 [SVG images to Download](topics/Downloads.md)
+- 35 [Icons](topics/Icons.md)
+- 13 [Sites using SVG](topics/Sites-using-svg.md)
 
 Software
 
-- [SVG Software](topics/Softwares.md)- free and commercial
-- [Responsive](topics/Responsive.md)
-- [Libraries](topics/Libraries.md)
-- [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
+- 15 [SVG Software](topics/Softwares.md)- free and commercial
+- 41 [Libraries](topics/Libraries.md)
+- 18 [JavaScript/Node Modules](topics/Node-modules.md) - Grunt and Gulp Plugins
+- 11 [Responsive](topics/Responsive.md)
+- 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
 
 Education
 
-- [Sites using SVG](topics/Sites-using-svg.md)
-- [Follow on Twitter](topics/Follow-twitter.md)
-- [Tutorials](topics/Tutorials.md)
-- [Videos](topics/Videos.md)
-- [Books](topics/Books.md)
+- 57 [Tutorials](topics/Tutorials.md)
+- 32 [Videos](topics/Videos.md)
+- 11 [Books](topics/Books.md)
+- 25 [Slides](topics/Slides.md)
+- 15 [Follow on Twitter](topics/Follow-twitter.md)
 
 Other
 
-- [Accessible SVG](topics/Accessibility.md)
-
-Tools
-
-- JavaScript: [Node Modules](topics/Node-modules.md) - Grunt and Gulp Plugins
+- 06 [SVG and Accessibility](topics/Accessibility.md)
 
 ## Thanks to
 
