@@ -1,10 +1,9 @@
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of SVG, from 2017. Occasionally updated starting for 2022
+> A curated list of SVG, from 2017. Occasionally updated, starting in 2022.
 >
-> - [Awesome SVG](#awesome-svg)
   
 SVG Features
 
@@ -31,7 +30,6 @@ Education
 
 - [Sites using SVG](topics/Sites-using-svg.md)
 - [Follow on Twitter](topics/Follow-twitter.md)
-- [Podcasts](topics/Podcasts.md)
 - [Tutorials](topics/Tutorials.md)
 - [Videos](topics/Videos.md)
 - [Books](topics/Books.md)
@@ -39,6 +37,7 @@ Education
 Other
 
 - [Accessible SVG](topics/Accessibility.md)
+- Podcasts (dead)
 
 Tools
 
