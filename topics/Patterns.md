@@ -17,4 +17,4 @@
 * [SVG quasicrystal generator](http://berjon.com/quasi/)
 
 ---
-[Back to Home](/knbknb/awesome-svg)
+[Back to Home](https://github.com/knbknb/awesome-svg)

@@ -19,4 +19,4 @@ Software
 * [Responsive Sass Mixin](https://unicorn-ui.com/blog/responsive-svg-mixin.html)
 
 ---
-[Back to Home](/knbknb/awesome-svg)
+[Back to Home](https://github.com/knbknb/awesome-svg)

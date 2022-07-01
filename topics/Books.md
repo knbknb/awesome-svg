@@ -14,4 +14,4 @@
 * [SVG Tessellation by Jeremy Corbett - 2013](https://www.amazon.com/SVG-Tessellation-ebook/dp/B00DAKS1U8/)
 
 ---
-[Back to Home](/knbknb/awesome-svg)
+[Back to Home](https://github.com/knbknb/awesome-svg)

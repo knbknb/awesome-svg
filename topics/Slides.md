@@ -29,4 +29,4 @@
 * [Working with SVG - A Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/)
 
 ---
-[Back to Home](/knbknb/awesome-svg)
+[Back to Home](https://github.com/knbknb/awesome-svg)

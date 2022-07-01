@@ -59,4 +59,4 @@
 - [You, Me & SVG - Code School](https://www.pluralsight.com/courses/code-school-you-me-svg)
 
 ---
-[Back to Home](/knbknb/awesome-svg)
+[Back to Home](https://github.com/knbknb/awesome-svg)
