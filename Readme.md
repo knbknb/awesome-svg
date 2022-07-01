@@ -18,7 +18,6 @@ Images
 
 - 14 [SVG images to Download](topics/Downloads.md)
 - 35 [Icons](topics/Icons.md)
-- 13 [Sites using SVG](topics/Sites-using-svg.md)
 
 Software
 
@@ -39,6 +38,7 @@ Education
 Other
 
 - 06 [SVG and Accessibility](topics/Accessibility.md)
+- 13 [Sites using SVG](topics/Sites-using-svg.md) on their homepage, to showcase themselves
 
 ## Thanks to
 
