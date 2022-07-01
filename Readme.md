@@ -37,7 +37,6 @@ Education
 Other
 
 - [Accessible SVG](topics/Accessibility.md)
-- Podcasts (dead)
 
 Tools
 
