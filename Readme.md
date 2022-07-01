@@ -2,8 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of SVG, from 2017. Occasionally updated, starting in 2022.
->
+> A curated list of SVG, from 2017. Occasionally updated, starting in 2022.  
+> Most pages list Software, Specifications, Resources and Articles about the topics.
   
 SVG Features
 
@@ -21,7 +21,7 @@ SVG Features
 
 Software
 
-- [SVG Software](topics/Softwares.md)
+- [SVG Software](topics/Softwares.md)- free and commercial
 - [Responsive](topics/Responsive.md)
 - [Libraries](topics/Libraries.md)
 - [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
