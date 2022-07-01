@@ -11,6 +11,7 @@
 - 12 [Gradients](topics/Gradients.md)
 - 08 [Masks and Clip-Paths](topics/Masks-clips.md)
 - 14 [Patterns](topics/Patterns.md)
+- 11 [Responsive Design](topics/Responsive.md) - Articles about scalable SVG
 - 08 [Sprites](topics/Sprites.md)
 - 14 [Text](topics/Text.md)
 
@@ -23,9 +24,8 @@ Software
 
 - 15 [SVG Software](topics/Softwares.md)- free and commercial
 - 41 [Libraries](topics/Libraries.md)
-- 18 [JavaScript/Node Modules](topics/Node-modules.md) - Grunt and Gulp Plugins
-- 11 [Responsive](topics/Responsive.md)
-- 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
+- 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - Articles, Command Line Tools, Plugins
+- 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt and Gulp Plugins. Better see "Optimizing, Fallbacks and Tools", line above.
 
 Education
 
