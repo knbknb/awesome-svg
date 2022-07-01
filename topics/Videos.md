@@ -3,10 +3,11 @@
 
 ### On Youtube
 
-#### Playlist
+#### Playlists
 
-* [A beginners guide to SVG](https://www.youtube.com/playlist?list=PL4-IK0AVhVjP0EeV513_b30lhGRTfMbYd) :us: - Playlist
-* [A great List of SVG Basics](https://www.youtube.com/watch?v=PQxtlY19kto&list=PLL8woMHwr36F2tCFnWTbVBQAGQ6nTcXOO)
+* [A beginners guide to SVG](https://www.youtube.com/playlist?list=PL4-IK0AVhVjP0EeV513_b30lhGRTfMbYd) - Playlist of five  Videos, ~20 Min each, by Kevin Powell, 2018.
+* [SVG - Scalable Vector Graphics](https://www.youtube.com/watch?v=PQxtlY19kto&list=PLL8woMHwr36F2tCFnWTbVBQAGQ6nTcXOO) - 13 Videos, ~10 Min, by Jakob Jenkov, 2014.
+
 
 #### Single Videos
 
