@@ -1,12 +1,12 @@
 ## SVG to Download
 > Some SVG resources to download and enjoy.
 
-See also [SVG Icons](icons.md) list
+See also [SVG Icons](Icons.md) list
 
 * [Freepik](https://www.freepik.com/) - searchable
 * [Loading.io](http://loading.io/) -  Animated Loading Indicators
 * [Pixabay](https://pixabay.com/vectors/) - for sharing high quality  vector graphics + more
-* [SVG Porn - high quality svg logos](https://svgporn.com/) - company SVG logos
+* [SVG Porn](https://svgporn.com/) - high quality SVG logos for  companies and products
   
 Commercial sites
 > Subscription based, or one-time fee based.

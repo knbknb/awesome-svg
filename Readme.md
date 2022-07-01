@@ -16,7 +16,7 @@
 
 Images
 
-- 14 [SVG images to Download](topics/Downloads.md)
+- 14 [SVG images to Download](topics/Downloads.md) - Searchable Sites
 - 35 [Icons](topics/Icons.md)
 
 Software
@@ -33,7 +33,7 @@ Education
 - 32 [Videos](topics/Videos.md)
 - 11 [Books](topics/Books.md)
 - 25 [Slides](topics/Slides.md)
-- 15 [Follow on Twitter](topics/Follow-twitter.md)
+- 15 [Follow on Twitter](topics/Follow-twitter.md) - SVG and CSS experts
 
 Other
 
