@@ -1,11 +1,9 @@
-<img src="https://rawgit.com/knbknb/awesome-svg/master/logo.svg" alt="Awesome SVG">
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of SVG, from 2017. Occasionally updated, starting in 2022.  
-> Most pages list Software, Specifications, Resources and Articles about the topics.
+> Most pages list Software, Articles, Video tutorials, and other Resources about the topics.
 
-- 43 [Animation](topics/Animation.md)
+- 43 [SVG Animation](topics/Animation.md)
 - 29 [Experiments](topics/Experiments.md)
 - 14 [Filters](topics/Filters.md)
 - 12 [Gradients](topics/Gradients.md)
@@ -18,7 +16,7 @@
 Images
 
 - 14 [SVG images to Download](topics/Downloads.md) - Searchable Sites
-- 35 [Icons](topics/Icons.md)
+- 35 [Icon Collections](topics/Icons.md)
 
 Software
 
@@ -38,7 +36,7 @@ Education
 Other
 
 - 06 [SVG and Accessibility](topics/Accessibility.md)
-- 13 [Sites using SVG](topics/Sites-using-svg.md) on their homepage, to showcase themselves
+- 05 [Sites using SVG](topics/Sites-using-svg.md) on their homepage, to showcase themselves
 
 ## Thanks to
 

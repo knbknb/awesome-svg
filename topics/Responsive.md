@@ -7,7 +7,7 @@ Tutorials
 * [How to Scale SVG](https://css-tricks.com/scale-svg/), CSS-tricks, updated 2022.
 * [Make SVG Responsive](http://thenewcode.com/744/Make-SVG-Responsive) - Article by Dudley Storey, 2015
 * [Making SVG's responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/) - By Sara Soueidam 2014
-* [Media queries in SVG images](https://cloudfour.com/thinks/media-queries-in-svg-images/) - by Jason Grigsby, 2013
+* [Media queries in SVG images](https://cloudfour.com/thinks/media-queries-in-svg-images/) - you can embed media queries inside SVG images. By Jason Grigsby, 2013
 * [Responsive Logo Composition With SVG](https://cloudfour.com/thinks/responsive-logo-composition-with-svg/) - by  Tyler Sticka, 2016
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](https://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens) - by Jeremy Frank, UI Development Director, 2015
 * [Responsive Logos, Part 2: Making Logos Truly Responsive with Inline SVG](https://viget.com/inspire/responsive-logos-part-2-making-logos-truly-responsive-with-svg)
