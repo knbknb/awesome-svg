@@ -32,4 +32,4 @@
 * [SVG Wow](http://svg-wow.org/)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

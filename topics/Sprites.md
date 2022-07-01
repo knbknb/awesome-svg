@@ -11,4 +11,4 @@
 * [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

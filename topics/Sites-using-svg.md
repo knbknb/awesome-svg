@@ -15,4 +15,4 @@
 * [Stat Social](http://www.statsocial.com/)
 * [StretchSketch](http://www.stretchsketch.com/)
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

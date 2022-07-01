@@ -41,4 +41,4 @@
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

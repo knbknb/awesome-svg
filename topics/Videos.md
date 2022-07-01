@@ -36,4 +36,4 @@
 * [Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

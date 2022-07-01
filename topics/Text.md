@@ -17,4 +17,4 @@
 * [Tspan element](http://tutorials.jenkov.com/svg/tspan-element.html)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

@@ -5,4 +5,4 @@
 * [W3C's SVG WG](http://www.w3.org/Graphics/SVG/)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

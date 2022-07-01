@@ -18,4 +18,4 @@
 * [@TheGraphicalWeb](https://twitter.com/TheGraphicalWeb)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

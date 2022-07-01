@@ -8,4 +8,4 @@
 * [Gulp-svgstore](https://github.com/w0rm/gulp-svgstore)
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)

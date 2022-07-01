@@ -32,4 +32,4 @@ For designing simple infographics and symbols for the web, I use a combined work
 > The commercial software is optimized for handling big, complex SVG graphics, for various application domains, such as engineering, architecture, and design.
 
 ---
-[Back to Home](../awesome-svg)
+[Back to Home](/knbknb/awesome-svg)
