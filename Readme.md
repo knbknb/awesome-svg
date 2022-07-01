@@ -41,8 +41,7 @@ Other
 
 Tools
 
-- [Grunt Plugins](topics/Grunt-plugins.md)
-- [Gulp Plugins](topics/Gulp-plugins.md)
+- JavaScript: [Node Modules](topics/Grunt-plugins.md) - Grunt and Gulp Plugins
 
 ## Thanks to
 
