@@ -39,4 +39,4 @@
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)

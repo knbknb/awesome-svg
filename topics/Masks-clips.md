@@ -11,4 +11,4 @@
 * [Using SVG Clip-path](https://sawyer.soy/writing/using-svg-clippath/)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)

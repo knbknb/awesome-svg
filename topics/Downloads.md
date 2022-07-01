@@ -17,4 +17,4 @@
 * [Vecteezy](https://www.vecteezy.com/)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)

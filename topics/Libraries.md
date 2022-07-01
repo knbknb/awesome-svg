@@ -44,5 +44,5 @@
 * [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)
 

@@ -25,4 +25,4 @@
 * [Gulp-svgstore](https://github.com/w0rm/gulp-svgstore)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)

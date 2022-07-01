@@ -46,4 +46,4 @@
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)

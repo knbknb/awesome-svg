@@ -15,4 +15,4 @@
 * [Using svg for flexible scalable and fun backgrounds - part 1](http://alistapart.com/article/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)

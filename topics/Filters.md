@@ -16,4 +16,4 @@
 * [SVG Filters](https://yoksel.github.io/svg-filters/) by [Yoksel](https://twitter.com/yoksel_en)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-svg)
+[Back to Home](../awesome-svg)
