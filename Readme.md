@@ -15,7 +15,7 @@
 
 Images
 
-- 14 [SVG images to Download](topics/Downloads.md) - Searchable Sites
+- 14 [SVG image Sites](topics/Downloads.md) - Searchable Sites, to Download
 - 35 [Icon Collections](topics/Icons.md)
 
 Software
