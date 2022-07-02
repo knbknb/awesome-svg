@@ -5,10 +5,10 @@
 * [@daviddaileysru](https://twitter.com/daviddaileysru) - Professor of Computer Science, wrote books on SVG
 * [@dirkschulze](https://twitter.com/dirkschulze) - SVG WG chair.
 * [@mbostock](https://twitter.com/mbostock) - D3.js, SVG, and more.
-* [@JoniTrythall](https://twitter.com/JoniTrythall) - excitable brand strategist
+* [@JoniTrythall](https://twitter.com/JoniTrythall) - Book author on SVG,Excitable brand strategist
 * [@jkphl](https://twitter.com/jkphl) - Accessibility Expert
-* [@leaverou](https://twitter.com/LeaVerou) - CSS expert
-* [@SaraSoueidan](https://twitter.com/SaraSoueidan) - CSS expert
+* [@leaverou](https://twitter.com/LeaVerou) - CSS Expert, Book author on CSS
+* [@SaraSoueidan](https://twitter.com/SaraSoueidan) - CSS Expert
 * [@shepazu](https://twitter.com/shepazu) - Doug Schepers • dataviz, SVG expert
 * [@svgeesus](https://twitter.com/svgeesus) - Chris Lilley, "Father of SVG". @W3C
  staff.

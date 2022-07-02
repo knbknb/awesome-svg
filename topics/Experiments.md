@@ -1,35 +1,34 @@
 ## Experiments
 > Everyone likes experiments, why not some of them?
 
-* [A simple modal window with an animated SVG background.](https://codyhouse.co/gem/svg-modal-window/)
-* [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html)
-* [Bump Maping by Lucas Bebber](https://codepen.io/lbebber/details/RNgWXL/)
-* [Depth field using Filters](https://codepen.io/vcurd/pen/caFxz)
-* [Elastic Stroke SVG+CSS](https://codepen.io/yoksel/pen/XJbzrO)
-* [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
-* [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
-* [Generate semantic metro maps from GTFS data](http://semantic-metro-map-generator.herokuapp.com/)
-* [Glitch by Lucas Bebber](https://codepen.io/lbebber/details/qEjRYd/)
-* [Gooey Menu by Lucas Bebber](https://codepen.io/lbebber/full/LELBEo/)
-* [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
-* [GSAP SVG Animations by Chris Gannon](https://codepen.io/collection/XzxeNJ/)
-* [Poly Maker](https://aerotwist.com/lab/poly-maker/)
-* [Semantic & interactive graphics with SVG](http://semantic-graphics.herokuapp.com/)
-* [Semantic & interactive metro maps with SVG](http://semantic-metro-map.herokuapp.com/)
-* [Semantic diagrams (generate/parse/query embedded RDF)](http://semantic-diagrams.herokuapp.com/)
+Components
+
+* [A simple modal window with an animated SVG background.](https://codyhouse.co/gem/svg-modal-window/) - part of larger component library
+* [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html) - SVG shape descriptions for annotating graphical resources via URL syntax
+
+On Codepen.io
+
 * [SVG 101 - Instructive SVG's](https://codepen.io/collection/AxKdex/)
-* [SVG Awesome - a collection by Jason Weaver](https://codepen.io/collection/JyolC/)
-* [SVG Christmas Experiments by I Hate Tomatoes](https://ihatetomatoes.net/svg-christmas/)
+* [Bump Maping by Lucas Bebber](https://codepen.io/lbebber/details/RNgWXL/) - Moon surface
+* [Depth field using Filters](https://codepen.io/vcurd/pen/caFxz) - Bokeh
+* [Elastic Stroke SVG+CSS](https://codepen.io/yoksel/pen/XJbzrO) -  Cool Font Effect
+* [Glitch by Lucas Bebber](https://codepen.io/lbebber/details/qEjRYd/) - Shaky text
+* [Gooey Menu by Lucas Bebber](https://codepen.io/lbebber/full/LELBEo/) - Expand/Collapse Menu
+* [GSAP SVG Animations by Chris Gannon](https://codepen.io/collection/XzxeNJ/)
+* [SVG Heart Monitor](https://codepen.io/chrisgannon/pen/waaByJ) - SVG + JS
+* [SVG Paper Shredder](https://codepen.io/chrisgannon/details/bdGqBo/), [interactive](https://codepen.io/chrisgannon/pen/BNaVQO/) - Fun Animations
+* [SVG Rainbow Rocket Man](https://codepen.io/chrisgannon/details/EjVyXN/) - shaky astronout
+* [SVG Space Rocket!](https://codepen.io/chrisgannon/pen/QbLMxz) - shaky rocket + lookingglass
+* [Play with Orca](https://codepen.io/diegoleme/pen/rIokB) - scary Orca follows your mouse
+
+Animations and Interactive Stuff elsewhere
+
+* [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/) - wobbly left sidebar
+* [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/) - [GitHub](https://github.com/wagerfield/flat-surface-shader), JavaScript lib implementing Lambertian Model of Light Reflectance
+* [SVG Christmas Experiments by I Hate Tomatoes](https://ihatetomatoes.net/svg-christmas/) - Fun, animated with GreenSock
 * [SVG Christmas Experiments by Willian Justen and Lucas Maia](http://lucasmaiaesilva.github.io/svgexperiment/)
-* [SVG Heart Monitor](https://codepen.io/chrisgannon/pen/waaByJ)
-* [SVG MAGAZINE](http://svgmagazine.com/oct2014/)
-* [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
-* [SVG Memory Game](https://codepen.io/allanpope/full/OVJWLK/)
-* [SVG Paper Shredder](https://codepen.io/chrisgannon/details/bdGqBo/)
-* [SVG Rainbow Rocket Man](https://codepen.io/chrisgannon/details/EjVyXN/)
-* [SVG Space Rocket!](https://codepen.io/chrisgannon/pen/QbLMxz)
-* [Play with Orca](https://codepen.io/diegoleme/pen/rIokB)
-* [SVG Wow](http://svg-wow.org/)
+* [Star-Shape Creator](http://svg-whiz.com/svg/StarMaker-FF.svg) -  App for Firefox
+* [SVG Wow](http://svg-wow.org/) - site is in maintenance mode
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)

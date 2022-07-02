@@ -21,7 +21,7 @@ Images
 Software
 
 - 15 [SVG Software](topics/Softwares.md)- free and commercial
-- 41 [Libraries](topics/Libraries.md)
+- 41 [Libraries](topics/Libraries.md) - ordered by popularity on GitHub
 - 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - Articles, Command Line Tools, Plugins
 - 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt and Gulp Plugins. Better see "Optimizing, Fallbacks and Tools", line above.
 
@@ -29,13 +29,13 @@ Education
 
 - 57 [Tutorials](topics/Tutorials.md)
 - 32 [Videos](topics/Videos.md)
-- 11 [Books](topics/Books.md)
+- 09 [Books](topics/Books.md) - released before 2014
 - 25 [Slides](topics/Slides.md)
 - 15 [Follow on Twitter](topics/Follow-twitter.md) - SVG and CSS experts
 
 Other
 
-- 06 [SVG and Accessibility](topics/Accessibility.md)
+- 06 [SVG and Accessibility](topics/Accessibility.md) - mostly about screen readers, a bit about metadata.
 - 05 [Sites using SVG](topics/Sites-using-svg.md) on their homepage, to showcase themselves
 
 ## Thanks to
