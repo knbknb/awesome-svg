@@ -4,10 +4,10 @@
 > Most pages list Software, Articles, Video tutorials, and other Resources about the topics.
 
 - 43 [SVG Animation](topics/Animation.md)
-- 29 [Experiments](topics/Experiments.md)
-- 14 [Filters](topics/Filters.md)
-- 12 [Gradients](topics/Gradients.md)
-- 08 [Masks and Clip-Paths](topics/Masks-clips.md)
+- 29 [Experiments](topics/Experiments.md) - Snippets, Components, GUI-Effects
+- 14 [Filters](topics/Filters.md)- Apply pixel-based effects to SVG content
+- 12 [Gradients](topics/Gradients.md) - Advanced tool
+- 08 [Masks and Clip-Paths](topics/Masks-clips.md) - Advanced tool
 - 14 [Patterns](topics/Patterns.md)
 - 11 [Responsive Design](topics/Responsive.md) - Articles about scalable SVG
 - 08 [Sprites](topics/Sprites.md)

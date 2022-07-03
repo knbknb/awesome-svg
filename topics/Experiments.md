@@ -8,7 +8,7 @@ Components
 
 On Codepen.io
 
-* [SVG 101 - Instructive SVG's](https://codepen.io/collection/AxKdex/)
+* [SVG 101 - Instructive SVG's](https://codepen.io/collection/AxKdex/) - snippets compiled by Katrine-Marie Burmeister
 * [Bump Maping by Lucas Bebber](https://codepen.io/lbebber/details/RNgWXL/) - Moon surface
 * [Depth field using Filters](https://codepen.io/vcurd/pen/caFxz) - Bokeh
 * [Elastic Stroke SVG+CSS](https://codepen.io/yoksel/pen/XJbzrO) -  Cool Font Effect

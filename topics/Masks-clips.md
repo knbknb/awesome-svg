@@ -1,14 +1,14 @@
 ## Masks and Clip-paths
-> Another great feature that SVG supports, take a look.
+> clip-path Another great feature that SVG supports, take a look.
 
-* [Cutting Inner Part Element Using Clip-Path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/)
-* [Clip-path Generator](https://cssplant.com/clip-path-generator)
-* [Clip-path Images Coderwall](https://coderwall.com/p/blx8kw/svg-clippath-images)
-* [Clip Path by Jenkov](http://tutorials.jenkov.com/svg/clip-path.html)
-* [Clipping SVGBasics](http://www.svgbasics.com/clipping.html)
-* [Masking Html5Rocks](http://www.html5rocks.com/en/tutorials/masking/adobe/?redirect_from_locale=pt)
-* [Masking W3C](http://www.w3.org/TR/SVG/masking.html)
-* [Using SVG Clip-path](https://sawyer.soy/writing/using-svg-clippath/)
+* [Cutting Inner Part Element Using Clip-Path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) - by Ana Tudor, updated 2021
+* [Clip-path Generator](https://cssplant.com/clip-path-generator) - Interactive Tool
+* [Clip-path Images Coderwall](https://coderwall.com/p/blx8kw/svg-clippath-images) - Short Tutorial, updated 2021
+* [Clip Path](http://tutorials.jenkov.com/svg/clip-path.html) - Short Tutorial, by Jakob Jenkov, 2014
+* [Clipping SVGBasics](http://www.svgbasics.com/clipping.html) - slightly dysfunctional in 2022
+* [Apply effects to images with CSS's mask-image property](https://web.dev/css-masking/) - CSS+SVG by Rachel Andrew, 2020
+
+* [Masking W3C](https://www.w3.org/TR/css-masking/)
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)
