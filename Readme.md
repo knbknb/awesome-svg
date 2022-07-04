@@ -4,7 +4,6 @@
 > Most pages list Software, Articles, Video tutorials, and other Resources about the topics.
 
 - 43 [SVG Animation](topics/Animation.md)
-- 29 [Experiments](topics/Experiments.md) - Snippets, Components, GUI-Effects
 - 14 [Filters](topics/Filters.md)- Apply pixel-based effects to SVG content
 - 12 [Gradients](topics/Gradients.md) - Advanced feature
 - 08 [Masks and Clip-Paths](topics/Masks-clips.md) - Advanced feature, no longer part of SVG standard
@@ -20,10 +19,11 @@ Images
 
 Software
 
-- 15 [SVG Software](topics/Softwares.md)- free and commercial
+- 15 [SVG Software](topics/Software.md)- free and commercial
 - 41 [Libraries](topics/Libraries.md) - ordered by popularity on GitHub
 - 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - Articles, Command Line Tools, Plugins
 - 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt and Gulp Plugins. Better see "Optimizing, Fallbacks and Tools", line above.
+- 29 [Experiments](topics/Experiments.md) - Snippets, Components, GUI-Effects
 
 Education
 
