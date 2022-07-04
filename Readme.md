@@ -6,9 +6,9 @@
 - 43 [SVG Animation](topics/Animation.md)
 - 29 [Experiments](topics/Experiments.md) - Snippets, Components, GUI-Effects
 - 14 [Filters](topics/Filters.md)- Apply pixel-based effects to SVG content
-- 12 [Gradients](topics/Gradients.md) - Advanced tool
-- 08 [Masks and Clip-Paths](topics/Masks-clips.md) - Advanced tool
-- 14 [Patterns](topics/Patterns.md)
+- 12 [Gradients](topics/Gradients.md) - Advanced feature
+- 08 [Masks and Clip-Paths](topics/Masks-clips.md) - Advanced feature, no longer part of SVG standard
+- 14 [Patterns](topics/Patterns.md) - instead of backgrounds, use SVG patterns.
 - 11 [Responsive Design](topics/Responsive.md) - Articles about scalable SVG
 - 08 [Sprites](topics/Sprites.md)
 - 14 [Text](topics/Text.md)
