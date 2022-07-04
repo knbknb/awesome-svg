@@ -1,7 +1,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome SVG
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](
 > A curated list of SVG, from 2017. Occasionally updated, starting in 2022.  
-> Most pages list Software, Articles, Video tutorials, and other Resources about the topics.
+> Most pages list Software, Articles, Video tutorials, and other Resources about the topics.  
+> My personal, opinionated fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg) hich is a bit outdated and contains a few items that are no longer awesome.
+
+SVG Features
 
 - 43 [SVG Animation](topics/Animation.md)
 - 14 [Filters](topics/Filters.md)- Apply pixel-based effects to SVG content
@@ -14,7 +19,7 @@
 
 Images
 
-- 14 [SVG image Sites](topics/Downloads.md) - Searchable Sites, to Download
+- 14 [SVG image Sites](topics/Downloads.md) - Searchable Sites. YOu can download images here.
 - 35 [Icon Collections](topics/Icons.md)
 
 Software

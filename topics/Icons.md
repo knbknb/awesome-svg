@@ -1,6 +1,8 @@
 ## Icons
 > How to use svg for icons, why svg is better than fonticon, tools, and more.
 
+* [Inkscape Open Symbols](https://github.com/PanderMusubi/inkscape-open-symbols)- flags, emojis, traffic signs, menu icons and more complex shapes.
+
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/)
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
 * [Cascading SVG Fill Color](https://css-tricks.com/cascading-svg-fill-color/)

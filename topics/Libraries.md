@@ -6,8 +6,8 @@
 * [D3.js](https://d3js.org/) - now [ObservableHQ](https://observablehq.com/)
   * [C3.js](https://github.com/masayuki0812/c3) - A D3-based reusable chart library, 9k stars on GitHub
   * [MetricsGraphics.js](http://metricsgraphicsjs.org/) - built on top of D3, optimized for visualizing and laying out time-series data.
-
-> There are probably many others.
+  
+> There are probably many others. Check the ["Awesome D3" list on GitHub](https://github.com/wbkd/awesome-d3#readme)
 
 #### Ordered by: Number of Stars on GitHub
 
