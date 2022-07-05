@@ -1,20 +1,24 @@
 ## Text
 > SVG is great for create responsive texts and texts with filters.
 
-* [3 tricks for adding texture to your text](https://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/)
-* [Animated SVG Font](http://buseca.github.io/letterbolt/)
-* [Create Text Filling with Water Effect](https://blog.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect)
-* [Creative Typography with SVG](http://talks.brennaobrien.com/svg-typography/)
-* [Cross Browser svg text paths without javascript even in older ie](http://www.useragentman.com/blog/2013/05/20/cross-browser-svg-text-paths-without-javascript-even-in-older-ie/)
-* [CSS vs. SVG: Graphical Text Effects](https://blog.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text)
-* [Easily center text vertically with svg](http://lea.verou.me/2013/03/easily-center-text-vertically-with-svg/)
-* [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/)
-* [Flowed text in SVG: One step forward, one step back](http://tavmjong.free.fr/blog/?p=938)
-* [SVG filters on text](https://css-tricks.com/svg-filters-on-text/)
-* [SVG text element](https://www.dashingd3js.com/svg-text-element)
-* [SVG text typographic designs](https://css-tricks.com/svg-text-typographic-designs/)
-* [Text in SVG](http://apike.ca/prog_svg_text.html)
-* [Tspan element](http://tutorials.jenkov.com/svg/tspan-element.html)
+BlogPosts and Tutorials
+
+* [3 tricks for adding texture to your text](https://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/) - by  Samuel Norton
+* [Creative Typography with SVG](https://brenna.github.io/talk_svg-typography/) SlideDeck by Brenna OBrien
+* [Cross Browser svg text paths without javascript even in older ie](http://www.useragentman.com/blog/2013/05/20/cross-browser-svg-text-paths-without-javascript-even-in-older-ie/) - by zoltan, 2013 
+* [Easily center text vertically with svg](http://lea.verou.me/2013/03/easily-center-text-vertically-with-svg/) - by Lea Verou, seems obsolete
+* [Flowed text in SVG: One step forward, one step back](http://tavmjong.free.fr/blog/?p=938) - by T. Bah, as implemented in Inkscape, 2013
+
+* [SVG filters on text](https://css-tricks.com/svg-filters-on-text/)  by Chris Scott, 2013
+* [SVG text element](https://www.dashingd3js.com/) - D3.js Tutorials, 2013
+* [SVG "text" typographic designs](https://css-tricks.com/svg-text-typographic-designs/) - bvy Chris Coyier. 2014
+* [Text in SVG](http://apike.ca/prog_svg_text.html) - text, tspan, tref. by Matthew Bystedt, 2014
+* [Tspan element](http://tutorials.jenkov.com/svg/tspan-element.html) - by Jakob Jenkov, 2014
+
+Libraries
+
+* [Animated SVG Font](http://buseca.github.io/letterbolt/)  JS, adds an animated font to webpage. 29 stars [on github](https://github.com/buseca/letterbolt).
+* [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/) - Performant, fully fluid headings with SVG. 1.3k stars on github.
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)

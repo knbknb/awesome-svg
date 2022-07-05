@@ -1,14 +1,13 @@
 ## SVG to Download
-> Some SVG resources to download and enjoy.
-
+> Some SVG resources to download and enjoy.  
+> See also [SVG Icons](Icons.md) list.
 
 * [Inkscape Open Symbols](https://github.com/PanderMusubi/inkscape-open-symbols)- flags, emojis, traffic signs, menu icons and more complex shapes.
-* [OpenClipart](https://openclipart.org/) - > 160000 images.  
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Quality_images/Subject/Non_photographic_media)  - Quality Images, Nonphotographic Media - more complex than OpenClipart.
+* [OpenClipart](https://openclipart.org/) - > 160000 images.
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Quality_images/Subject/Non_photographic_media)  - Quality Images, Nonphotographic Media - more complex than OpenClipart.
 * [humaaans](https://www.humaaans.com) - illustrations of human shapes and poses. Click "Use with Blush"
 * [creately.com](https://creately.com/diagram-community/popular) - Diagram-Templates for Infographics
 
-See also [SVG Icons](Icons.md) list.
 
 * [Freepik](https://www.freepik.com/) - searchable
 * [Loading.io](http://loading.io/) -  Animated Loading Indicators

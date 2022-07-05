@@ -1,13 +1,13 @@
 ## Sprites
 > Another approach on how to use SVG sprites.
 
-* [Ajaxing for your SVG Sprite](https://css-tricks.com/ajaxing-svg-sprite/)
-* [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage)
-* [Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/creating-svg-sprites-using-gulp-and-sass/)
-* [Inline SVG Icons](https://kartikprabhu.com/article/inline-svg-icons)
-* [How SVG Fragment Identifiers Work](https://css-tricks.com/svg-fragment-identifiers-work/)
-* [Usando SVG Sprites](http://willianjusten.com.br/usando-svg-sprites/) - Pt-BR
-* [Using Fragment Identifiers on SVG](http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/)
+* [Ajaxing for your SVG Sprite](https://css-tricks.com/ajaxing-svg-sprite/) - basics, by Chris Coyier, 2015.
+* [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage) - by Osvaldas Valutis, 2015.
+* [Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/creating-svg-sprites-using-gulp-and-sass/) - 109 stars [on Github](https://github.com/liquidlight/sass-gulp-svg-sprite)
+* [How SVG Fragment Identifiers Work](https://css-tricks.com/svg-fragment-identifiers-work/) - by Chris Coyier, 2014/2017
+
+Standards
+
 * [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
 
 ---
