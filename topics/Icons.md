@@ -29,10 +29,9 @@ Search for SVG images
 
 * [The Noun Project](https://thenounproject.com/search/icons/?iconspage=1&q=panda) - 3 million icons, searchable, commercial
 * [IconSear.ch](https://iconsear.ch/search.html) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos. 79 stars  
-Blog Posts and Tutorials
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed, 60 stars [on GitHub](https://github.com/VectorLogoZone/logosearch).
 
-
+Blog Posts and Tutorials
 
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/) - by Kitty Giraudel, 2016
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) - by Sara Soueidan, 2014
@@ -45,14 +44,11 @@ Blog Posts and Tutorials
 * [Manipulating svg icons with simple css](https://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694) - by P.N. Onori, 2013
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/) -by David DeSandro, 2014. [CodePen](https://codepen.io/desandro/pen/azZayr/)
 * [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/) - 2014
-
-
 * [SVG icons ftw](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
 * [SVG Sprites and Icon Systems are super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/) - 2014
 * [SVG Sprite Workflow That Works](https://medium.com/@iamryanyu/svg-sprite-workflow-that-works-f5609d4d6144#.ycad46oe7) - long article from 2016, by Ryan Yu
 * [SVG symbol a Good Choice for Icons](https://css-tricks.com/svg-symbol-good-choice-icons/) - by Chris Coyier, 2014
 * [SVG use with External Source](https://css-tricks.com/svg-use-external-source/) - by Chris Coyier, 2015
-
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)
