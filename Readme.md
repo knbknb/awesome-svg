@@ -1,10 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 # Awesome SVG
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](
+> My personal, opinionated fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg) which is a bit outdated and contains a few items that are no longer awesome.
 > A curated list of SVG, from 2017. Occasionally updated, starting in 2022.  
-> Most pages list Software, Articles, Video tutorials, and other Resources about the topics.  
-> My personal, opinionated fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg) hich is a bit outdated and contains a few items that are no longer awesome.
+> Most pages list Software, Articles, Video tutorials, and other Resources about the topics.
 
 SVG Features
 
@@ -14,13 +13,13 @@ SVG Features
 - 08 [Masks and Clip-Paths](topics/Masks-clips.md) - Advanced feature, no longer part of SVG standard
 - 14 [Patterns](topics/Patterns.md) - instead of backgrounds, use SVG patterns.
 - 11 [Responsive Design](topics/Responsive.md) - Articles about scalable SVG
-- 08 [Sprites](topics/Sprites.md)
-- 14 [Text](topics/Text.md)
+- 08 [Sprites](topics/Sprites.md) - also known as *SVG Fragment Identifiers*
+- 14 [Text](topics/Text.md) - Flowing and Animated text
 
 Images
 
 - 14 [SVG image Sites](topics/Downloads.md) - Searchable Sites. YOu can download images here.
-- 35 [Icon Collections](topics/Icons.md)
+- 35 [Icon Collections](topics/Icons.md) - but also Search Engines, Libraries, BlogPosts
 
 Software
 
