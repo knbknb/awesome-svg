@@ -34,7 +34,7 @@ Education
 - 57 [Tutorials](topics/Tutorials.md)
 - 32 [Videos](topics/Videos.md)
 - 09 [Books](topics/Books.md) - released before 2014
-- 25 [Slides](topics/Slides.md)
+- 25 [Slide Decks](topics/Slide-decks.md)
 - 15 [Follow on Twitter](topics/Follow-twitter.md) - SVG and CSS experts
 
 Other

@@ -7,6 +7,7 @@ Icon Collections
 * [Feather](https://feathericons.com) - Simply beautiful open source icons, 21.8k stars on GitHub.
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/) - Loading icons and small animations built with pure SVG. 5.4k stars on GitHub
 * [Evil Icons](http://evil-icons.io/) -  specifically for web projects. 5k stars on GitHub.
+* [SVG-Spinners](https://github.com/n3r4zzurr0/svg-spinners) - ~20 Loading icons and small animations built with pure SVG. 3.7k stars on GitHub.
 * [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
   * [svg-icon, same](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT 968k stars on GitHub.
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons), Subset of [icons8](https://icons8.com/icons/color) -  312 free icons, 2k Stars on GitHub.
@@ -17,6 +18,7 @@ Icon Collections
 * [Useiconic](https://useiconic.com/guides/)  - The definitive icon set designed for the modern web. The most web-friendly icons around. Get started with the Webfont, advance to the Smart SVGs.
 * [VectorLogoZone](https://www.vectorlogo.zone/) - 3,000+ gorgeous SVG logos, perfect for your README or credits page . 288 stars on GitHub.
 * [SVG Repo](https://www.svgrepo.com/) - 300.000+ SVG Vectors and Icons, collected by bots from various known sources. Searchable.
+* [Flags of world countries](https://flagicons.lipis.dev/) - not all of them are accurate
 
 Libraries
 

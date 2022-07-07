@@ -12,10 +12,12 @@ For designing simple infographics and symbols for the web, I use a combined work
 ### More Free and Open Source Software, [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 > See also [Optimizing, Fallbacks and Tools](https://github.com/knbknb/awesome-svg/blob/updates-2022/topics/Optimization-tools.md) page.
 
-* [Boxy SVG](https://boxy-svg.com/main.html) - basic
+* [SVGBob-Editor](https://ivanceras.github.io/svgbob-editor/) - convert ASCII-Art into SVG. 3.2k Stars on Github
+* [Boxy SVG](https://boxy-svg.com/main.html) - basic Editor for SVG. Desktop-App for Linux and MacOS
 * [Inkpad](https://github.com/sprang/Inkpad) - FOSS for the iPad, 2.6. stars, but abandoned since ~6 years. 2.6 stars
 * [SVGEdit](https://svg-edit.github.io/svgedit/) - Online Vector Editor
 * [Animatron](http://www.animatron.com) - for creating Videos(?). Not really SVG-focused.
+* [ssspill](https://fffuel.co/ssspill/) - In-Browser SVG generator for a stylistic spill/melted effect, (patterns + shapes)
 
 > Some of the free tools might have In-App purchases or paid versions. Similarly, the commercial versions of the tools are might have a free tier available, or a trial period.
 
