@@ -14,10 +14,9 @@ Icon Collections
 * [Inkscape Open Symbols](https://github.com/PanderMusubi/inkscape-open-symbols)- flags, emojis, traffic signs, menu icons and more complex shapes. 576 stars on GitHub.
 * [Fontastic](https://fontastic.me/faq) - Learn how to import your own icons, and the best way to prepare SVG files, 2014
 * [Glyph Smarticons](https://glyph.smarticons.co/) - Say hello to “Glyph”, a semantic and versatile SVG icon set designed for customization. 375 Stars [on Gihub](https://github.com/frexy/glyph-iconset)
-* [Iconmonstr](http://iconmonstr.com/) - Discover 4699+ free icons in 316 collections
-* [Useiconic](https://useiconic.com/guides/)  - The definitive icon set designed for the modern web. The most web-friendly icons around. Get started with the Webfont, advance to the Smart SVGs.
-* [VectorLogoZone](https://www.vectorlogo.zone/) - 3,000+ gorgeous SVG logos, perfect for your README or credits page . 288 stars on GitHub.
-* [SVG Repo](https://www.svgrepo.com/) - 300.000+ SVG Vectors and Icons, collected by bots from various known sources. Searchable.
+* [Iconmonstr](http://iconmonstr.com/) -  4699+ free icons in 316 collections
+* [Useiconic](https://useiconic.com/guides/)  - web-friendly icon-set. Get started with the Webfont, advance to the Smart SVGs.
+* [VectorLogoZone](https://www.vectorlogo.zone/) - 3,000+ SVG logos, for your README or credits page. 288 stars on GitHub.
 * [Flags of world countries](https://flagicons.lipis.dev/) - not all of them are accurate
 
 Libraries
@@ -25,18 +24,18 @@ Libraries
 * [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/) - JavaScript library enabling SVG icons to morph from one to the other. - 2.7k stars on GitHub
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh) - A Bash script to build a SVG sprite from a folder of SVG files (typically icons). 321 stars on GitHub.
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/) -   JavaScript library for synergistic SVG icons. based on Raphael.js 64 stars on GitHub.
-* [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html) - Useful style package to use in projects. 9 stars on GitHub
+* [NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html) - Useful style package to use in projects. 9 stars on GitHub
 
 Search for SVG icons
 
 * [The Noun Project](https://thenounproject.com/search/icons/?iconspage=1&q=panda) - 3 million icons, searchable, commercial
 * [IconSear.ch](https://iconsear.ch/search.html) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos. 79 stars  
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed, 60 stars [on GitHub](https://github.com/VectorLogoZone/logosearch).
+* [SVG Repo](https://www.svgrepo.com/) - 300.000+ SVG Vectors and Icons, collected by bots from various known sources. Searchable.
 
 Blog Posts and Tutorials
 
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/) - by Kitty Giraudel, 2016
-* [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) - by Sara Soueidan, 2014
 * [Cascading SVG Fill Color](https://css-tricks.com/cascading-svg-fill-color/) -by Chris Coyier, 2017
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/) - by Massimo Cassandro, 2014
 * [Customizable svg icons css variables](https://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables) - by Amelia B. Royds, April 2017

@@ -26,6 +26,7 @@ SVG Experts
 * [@tabAtkins](https://twitter.com/tabatkins) - Editor of ~50% of CSS specs
 * [@Yoksel](https://twitter.com/yoksel_en) - CSS and SVG lover : )
 
+* [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/) - Homepage of "Awesome SVG"-List Creator W. Justen.
 ##### Inactive?
 
 * [@svgwg](https://twitter.com/svgwg) -SVG Working Group. Inactive on Twitter since 2014

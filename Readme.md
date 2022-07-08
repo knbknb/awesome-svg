@@ -19,14 +19,14 @@ SVG Features
 
 Images
 
-- 14 [SVG image Sites](topics/Downloads.md) - searchable Sites. You can download images here.
-- 35 [Icon Collections](topics/Icons.md) - but also Search Engines for icons; libraries for icon styling; blogposts.
+- 14 [SVG image Sites](topics/Downloads.md) - searchable sites. You can download images here.
+- 35 [Icon Collections](topics/Icons.md) - but also search engines for icons; libraries for icon styling; blogposts.
 
 Software
 
 - 15 [SVG Software](topics/Software.md)- SVG Editors, free and commercial
 - 29 [Experiments](topics/Experiments.md) - Code Snippets, Components, GUI-Effects
-- 41 [Libraries](topics/Libraries.md) - ordered by popularity on GitHub
+- 41 [Libraries](topics/Libraries.md) - mostly JavaScript, ordered by popularity on GitHub
 - 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - articles, command line tools, plugins for editors and libraries
 - 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt and Gulp plugins. A bit outdated. Better see "Optimizing, Fallbacks and Tools", line above.
 
@@ -41,7 +41,6 @@ SVG Education
 Other
 
 - 06 [SVG and Accessibility](topics/Accessibility.md) - mostly about screen readers, and a bit about SVG metadata.
-- 05 [Sites using SVG](topics/Sites-using-svg.md) on their homepage, to showcase themselves (TO BE REMOVED or MERGED into other categories)
 
 ## Thanks to
 

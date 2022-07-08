@@ -51,6 +51,7 @@
 * [VelocityJS](http://julian.com/research/velocity/#svg) - Velocity is an animation engine with the same API as jQuery's $.animate().
 * [SVGWeb](https://code.google.com/p/svgweb/) - Scalable Vector Graphics for Web Browsers using Flash
 * [SVGPan](https://code.google.com/p/svgpan/) - JavaScript library to zoom, drag and pan SVG images - archived
+* [StretchSketch](http://www.stretchsketch.com/) - SVG for CNC laser cutters,furniture
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)

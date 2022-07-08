@@ -29,6 +29,9 @@ Animations and Interactive Stuff elsewhere
 * [SVG Christmas Experiments by Willian Justen and Lucas Maia](http://lucasmaiaesilva.github.io/svgexperiment/)
 * [Star-Shape Creator](http://svg-whiz.com/svg/StarMaker-FF.svg) -  App for Firefox
 * [SVG Wow](http://svg-wow.org/) - site is in maintenance mode
+* [initiative.com](http://initiative.com/) - Amazing scrolling experience
+* [albinotonnina.com](http://www.albinotonnina.com/) - Personal CV Site - "to scroll down slowly"
+
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)
