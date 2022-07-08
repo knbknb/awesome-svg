@@ -1,5 +1,5 @@
-## Icons
-> How to use svg for icons, why svg is better than fonticon, tools, and more.
+## SVG Icons and Icon Collections
+> Search Engines for icons; libraries for icon styling; blogposts.
 
 Icon Collections
 
@@ -27,7 +27,7 @@ Libraries
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/) -   JavaScript library for synergistic SVG icons. based on Raphael.js 64 stars on GitHub.
 * [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html) - Useful style package to use in projects. 9 stars on GitHub
 
-Search for SVG images
+Search for SVG icons
 
 * [The Noun Project](https://thenounproject.com/search/icons/?iconspage=1&q=panda) - 3 million icons, searchable, commercial
 * [IconSear.ch](https://iconsear.ch/search.html) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos. 79 stars  

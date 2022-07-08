@@ -4,6 +4,8 @@
 > My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg) which is a bit outdated and contains a few items that are no longer around nor awesome.  
 > Most pages list software, articles, video tutorials, and other resources about the topics.
 
+- *number of links, topic*
+
 SVG Features
 
 - 43 [SVG Animation](topics/Animation.md)
@@ -18,17 +20,17 @@ SVG Features
 Images
 
 - 14 [SVG image Sites](topics/Downloads.md) - searchable Sites. You can download images here.
-- 35 [Icon Collections](topics/Icons.md) - but also Search Engines for icons, Libraries for icon styling, BlogPosts about the collections.
+- 35 [Icon Collections](topics/Icons.md) - but also Search Engines for icons; libraries for icon styling; blogposts.
 
 Software
 
 - 15 [SVG Software](topics/Software.md)- SVG Editors, free and commercial
 - 29 [Experiments](topics/Experiments.md) - Code Snippets, Components, GUI-Effects
 - 41 [Libraries](topics/Libraries.md) - ordered by popularity on GitHub
-- 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - Articles, Command Line Tools, Plugins for editors and libraries
+- 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - articles, command line tools, plugins for editors and libraries
 - 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt and Gulp plugins. A bit outdated. Better see "Optimizing, Fallbacks and Tools", line above.
 
-Education
+SVG Education
 
 - 57 [Tutorials](topics/Tutorials.md)
 - 32 [Videos](topics/Videos.md)
