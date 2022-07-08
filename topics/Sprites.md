@@ -1,5 +1,5 @@
 ## Sprites
-> Another approach on how to use SVG sprites.
+> Also known as *SVG Fragment Identifiers*.
 
 * [Ajaxing for your SVG Sprite](https://css-tricks.com/ajaxing-svg-sprite/) - basics, by Chris Coyier, 2015.
 * [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage) - by Osvaldas Valutis, 2015.
@@ -8,7 +8,7 @@
 
 Standards
 
-* [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
+* [W3C Specification](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers) - official Documentation
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)
