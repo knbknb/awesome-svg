@@ -8,38 +8,39 @@
 
 SVG Features
 
-- 43 [SVG Animation](topics/Animation.md)
+- 40 [SVG Animation](topics/Animation.md)
 - 14 [Filters](topics/Filters.md)- apply effects to SVG content, like blur, drop shadow, etc.
-- 12 [Gradients](topics/Gradients.md) - advanced feature
-- 14 [Patterns](topics/Patterns.md) - instead of backgrounds, use SVG patterns.
+- 10 [Gradients](topics/Gradients.md) - advanced feature
+- 19 [Patterns](topics/Patterns.md) - instead of backgrounds, use SVG patterns.
 - 11 [Responsive Design](topics/Responsive.md) - articles about scalable SVG
-- 04 [Sprites](topics/Sprites.md) - also known as *SVG Fragment Identifiers*
+- 07 [Sprites](topics/Sprites.md) - also known as *SVG Fragment Identifiers*
 - 14 [Text](topics/Text.md) - flowing and animated text
-- 08 [Masks and Clip-Paths](topics/Masks-clips.md) - advanced feature, no longer part of SVG standard
+- 07 [Masks and Clip-Paths](topics/Masks-clips.md) - advanced feature, no longer part of SVG standard
 
 Images
 
 - 14 [SVG image Sites](topics/Downloads.md) - searchable sites. You can download images here.
-- 35 [Icon Collections](topics/Icons.md) - but also search engines for icons; libraries for icon styling; blogposts.
+- 44 [Icon Collections](topics/Icons.md) - but also search engines for icons; libraries for icon styling; blogposts.
 
 Software
 
-- 15 [SVG Software](topics/Software.md)- SVG Editors, free and commercial
-- 29 [Experiments](topics/Experiments.md) - Code Snippets, Components, GUI-Effects
-- 41 [Libraries](topics/Libraries.md) - mostly JavaScript, ordered by popularity on GitHub
-- 38 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - articles, command line tools, plugins for editors and libraries
-- 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt and Gulp plugins. A bit outdated. Better see "Optimizing, Fallbacks and Tools", line above.
+- 20 [SVG Software](topics/Software.md)- SVG Editors, free and commercial
+- 25 [Experiments](topics/Experiments.md) - Code Snippets, Components, GUI-Effects
+- 43 [Libraries](topics/Libraries.md) - mostly JavaScript, ordered by popularity on GitHub
+- 32 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - articles, CLI tools, plugins for editors and libraries
+- 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt, Gulp plugins, outdated. Better see "Optimizing...".
 
 SVG Education
 
-- 57 [Tutorials](topics/Tutorials.md)
+- 51 [Tutorials](topics/Tutorials.md)
 - 32 [Videos](topics/Videos.md)
 - 09 [Books](topics/Books.md) - released before 2014
 - 25 [Slide Decks](topics/Slide-decks.md) - I didn't study them all, actually
-- 15 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts
+- 22 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts
 
 Other
 
+- 03 [Official](topics/Official.md) - official Specification Documents, mostly by W3C.
 - 06 [SVG and Accessibility](topics/Accessibility.md) - mostly about screen readers, and a bit about SVG metadata.
 
 ## Thanks to

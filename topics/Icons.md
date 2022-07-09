@@ -3,7 +3,7 @@
 
 Icon Collections
 
-* [Material Design Icons By Google](https://github.com/google/material-design-icons) - 46k Stars on GitHub
+* [Material Design Icons By Google](https://github.com/google/material-design-icons) -  [Search](https://fonts.google.com/icons?icon.set=Material+Icons) - 46k Stars on GitHub
 * [Feather](https://feathericons.com) - Simply beautiful open source icons, 21.8k stars on GitHub.
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/) - Loading icons and small animations built with pure SVG. 5.4k stars on GitHub
 * [Evil Icons](http://evil-icons.io/) -  specifically for web projects. 5k stars on GitHub.
@@ -14,6 +14,7 @@ Icon Collections
 * [Inkscape Open Symbols](https://github.com/PanderMusubi/inkscape-open-symbols)- flags, emojis, traffic signs, menu icons and more complex shapes. 576 stars on GitHub.
 * [Fontastic](https://fontastic.me/faq) - Learn how to import your own icons, and the best way to prepare SVG files, 2014
 * [Glyph Smarticons](https://glyph.smarticons.co/) - Say hello to “Glyph”, a semantic and versatile SVG icon set designed for customization. 375 Stars [on Gihub](https://github.com/frexy/glyph-iconset)
+* [Animated Climacons](https://github.com/noahblon/animated-climacons) - A set of animated SVG icons for use in weather applications. 2013, 242 stars on GitHub.
 * [Iconmonstr](http://iconmonstr.com/) -  4699+ free icons in 316 collections
 * [Useiconic](https://useiconic.com/guides/)  - web-friendly icon-set. Get started with the Webfont, advance to the Smart SVGs.
 * [VectorLogoZone](https://www.vectorlogo.zone/) - 3,000+ SVG logos, for your README or credits page. 288 stars on GitHub.
@@ -21,6 +22,7 @@ Icon Collections
 
 Libraries
 
+* [Loading Animation with SVG](https://github.com/jxnblk/loading) - meant as a joke,  inactive since 2014, but still 3.5k stars on GitHub.
 * [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/) - JavaScript library enabling SVG icons to morph from one to the other. - 2.7k stars on GitHub
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh) - A Bash script to build a SVG sprite from a folder of SVG files (typically icons). 321 stars on GitHub.
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/) -   JavaScript library for synergistic SVG icons. based on Raphael.js 64 stars on GitHub.
@@ -32,6 +34,11 @@ Search for SVG icons
 * [IconSear.ch](https://iconsear.ch/search.html) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos. 79 stars  
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed, 60 stars [on GitHub](https://github.com/VectorLogoZone/logosearch).
 * [SVG Repo](https://www.svgrepo.com/) - 300.000+ SVG Vectors and Icons, collected by bots from various known sources. Searchable.
+
+Other Services
+
+* [Iconizr](https://iconizr.com/) - upload your SVG drawings and process them to a CSS icon kit
+* [SVG Circus](http://svgcircus.com/) -  create cool animated SVG spinners, loaders and other looped animations in seconds.
 
 Blog Posts and Tutorials
 

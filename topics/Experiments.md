@@ -23,8 +23,11 @@ On Codepen.io
 
 Animations and Interactive Stuff elsewhere
 
+* [Material Design Ripple-Effects](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/) - Simple Demo, Button Click
 * [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/) - wobbly left sidebar
+* [Elastic Progress Loader with SVG and GSAP](https://tympanus.net/codrops/2015/09/23/elastic-progress) - see also [here](https://tympanus.net/Development/ElasticProgress/)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/) - [GitHub](https://github.com/wagerfield/flat-surface-shader), JavaScript lib implementing Lambertian Model of Light Reflectance
+* [Run, run, Ruuun!](https://codepen.io/CyrilLevallois/pen/JbrfI/) - with LightSaber, Katana
 * [SVG Christmas Experiments by I Hate Tomatoes](https://ihatetomatoes.net/svg-christmas/) - Fun, animated with GreenSock
 * [SVG Christmas Experiments by Willian Justen and Lucas Maia](http://lucasmaiaesilva.github.io/svgexperiment/)
 * [Star-Shape Creator](http://svg-whiz.com/svg/StarMaker-FF.svg) -  App for Firefox

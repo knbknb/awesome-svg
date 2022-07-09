@@ -9,6 +9,7 @@ Specification Authors
 * [@daviddaileysru](https://twitter.com/daviddaileysru) - W3C WB staff, Professor of Computer Science, wrote books on SVG
 * [@jkphl](https://twitter.com/jkphl) - Accessibility Expert
 
+
 Library Writers
 
 * [@mbostock](https://twitter.com/mbostock) - D3.js, SVG, and more.
