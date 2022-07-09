@@ -3,6 +3,7 @@
 
 Articles and Blog Posts
 
+* [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/) - by COsima Mielke, 2016
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/) - Article by Sara Soueidan, 2014.
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79) -  Inkscape, 2010
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg) - Short article

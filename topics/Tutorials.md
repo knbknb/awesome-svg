@@ -1,55 +1,41 @@
 ## Tutorials
 
-> Everything you need to know to start with SVG.
+> BlogPosts about SVG
 
-- [5 Gotchas You’re Gonna Face Getting Inline SVG Into Production](https://css-tricks.com/gotchas-on-getting-svg-into-production/)
-- [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
-- [A Look At SVG viewBox and viewport](http://jonibologna.com/svg-viewbox-and-viewport/)
-- [A Guide To Building SVG Maps From Natural Earth Data](http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/)
-- [Add svg to web page](http://www.sitepoint.com/add-svg-to-web-page/)
-- [Adobe Illustrator’s SVG Interactivity Panel Explained](https://webdesign.tutsplus.com/tutorials/adobe-illustrators-svg-interactivity-panel-explained--cms-23600)
-- [An Introduction to Sprite Animation](https://eighthdaydesign.com/journal/sprite-animation)
-- [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
-- [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage)
-- [Clipping in CSS and SVG](http://sarasoueidan.com/blog/css-svg-clipping/)
-- [Coloring SVGs in CSS Background Images](https://codepen.io/noahblon/blog/coloring-svgs-in-css-background-images)
-- [Export SVG for the web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
-- [Getting to the point](http://schepers.cc/getting-to-the-point)
-- [How I created my first SVG](https://ihatetomatoes.net/how-i-created-my-first-svg/)
-- [How SVG Shape Morphing Works](https://css-tricks.com/svg-shape-morphing-works/)
-- [How To Define SVG Content for Reuse — The defs, symbol, And use Elements](http://www.vanseodesign.com/web-design/svg-definition-reuse/)
-- [How to make an svg lava lamp](https://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp)
-- [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/)
-- [Make Responsive SVG Graphics and Infographics](https://www.sitepoint.com/make-responsive-svg-graphs-infographics)
-- [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
-- [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/)
-- [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
-- [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
-- [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
-- [SVG animation research & GSAP](https://codepen.io/FabioG/post/svg-animation-research-gsap)
-- [SVG and the preserveAspectRadio Property](https://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php)
-- [SVG Art Direction using Viewbox](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/)
-- [SVG Artboard Sizing](https://css-tricks.com/svg-artboard-sizing/)
-- [SVG Basic course by Css-Tricks](https://css-tricks.com/lodge/svg/table-of-contents/)
-- [SVG Document Structure](https://unicorn-ui.com/blog/svg-document-structure.html)
-- [SVG For Absolute Beginners](https://unicorn-ui.com/blog/svg-for-beginners.html)
-- [SVG has more potential](https://madebymike.com.au/writing/svg-has-more-potential/)
-- [SVG News](http://svg-news.com/)
-- [SVGBasics](http://www.svgbasics.com/)
-- [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
-- [The Ultimate Guide to SVG](https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/)
-- [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html)
-- [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
-- [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/)
-- [Understanding the Basics of SVG Transformations](https://creativecrunk.com/understanding-the-basics-of-svg-transformations/)
-- [Using SVG](https://css-tricks.com/using-svg/)
-- [W3C Docs](http://www.w3.org/Graphics/SVG/)
-- [Want to learn about svg? Start with this article](https://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
-- [Web Developer Reading List Introduction to SVG](http://demosthenes.info/blog/970/Web-Developer-Reading-List-Introduction-to-SVG)
-- [What Is SVG And Why Do You Care?](https://unicorn-ui.com/blog/what-is-svg-and-why-do-you-care.html)
-- [Why arent you using SVG?](https://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
-- Understanding SVG Coordinate Systems & Transformations [Part 1](http://sarasoueidan.com/blog/svg-coordinate-systems/ "The viewport, viewBox, & preserveAspectRatio"), [Part 2](http://sarasoueidan.com/blog/svg-transformations/ "The transform Attribute"), [Part 3](http://sarasoueidan.com/blog/nesting-svgs/ "Establishing New Viewports")
-- [You, Me & SVG - Code School](https://www.pluralsight.com/courses/code-school-you-me-svg)
+SVG Basics
+
+* [Using SVG](https://css-tricks.com/using-svg/) - Why at all? by Chris Coyier, 2015/2019
+* [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/) - by Craig Buckler, 2021
+* [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html) - State of the Union, by Amelia B.Roy
+* [SVG Document Structure](https://unicorn-ui.com/blog/svg-document-structure.html) - by Rob Levin, 2015
+* [A Look At SVG viewBox and viewport](https://jonitrythall.com/svg-viewbox-and-viewport) - by Joni Tryhall, 2014
+* [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/) - by Steven Bradley, 2015
+* [SVG Art Direction using Viewbox Attribute](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/) - How-To, Notes, Tips and Why We Need A viewBox Property in CSS - by Sara Soueidan, 2015
+* [SVG and the preserveAspectRadio Property](https://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php) - 2015
+* [How To Define SVG Content for Reuse — The defs, symbol, And use Elements](http://www.vanseodesign.com/web-design/svg-definition-reuse/) - by Steven Braadley, 2015
+* [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/) - by Sara Soueidan, 2015
+* [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/) - The `<g>`, `<use>`, `<defs>` and `<symbol>` Elements - by Sara Soueidan, 2015
+* Understanding SVG Coordinate Systems & Transformations [Part 1](http://sarasoueidan.com/blog/svg-coordinate-systems/ "The viewport, viewBox, & preserveAspectRatio"), [Part 2](http://sarasoueidan.com/blog/svg-transformations/ "The transform Attribute"), [Part 3](http://sarasoueidan.com/blog/nesting-svgs/ "Establishing New Viewports")
+* [A bit about SVG for Icons](http://seesparkbox.com/foundry/a_bit_about_svg) - by Philip Zastrow, 2014
+* [The Ultimate Guide to SVG](https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) -By Ezequiel Bruni, 2015 
+* [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html) - single big infographic from 2015
+* [Want to learn about svg? Start with this article](https://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/) - SVG Basics, esp. icons
+* [What Is SVG And Why Do You Care?](https://unicorn-ui.com/blog/what-is-svg-and-why-do-you-care.html) - by Rob Levin, 2015
+* [Why arent you using SVG?](https://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414) - by  Jonathan Cutrell, 2012
+
+
+Intermediate SVG
+
+* [SVG Artboard Sizing](https://css-tricks.com/svg-artboard-sizing/) - by Chris Coyier, 2014
+
+* [5 Gotchas You’re Gonna Face Getting Inline SVG Into Production](https://css-tricks.com/gotchas-on-getting-svg-into-production/)
+
+* [A Guide To Building SVG Maps From Natural Earth Data](http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/) - Interactive Maps with QGis and Python, by Chris Youderian
+* [Coloring SVGs in CSS Background Images](https://codepen.io/noahblon/pens/tags/?selected_tag=background) - Codepen.io collection by Noah Blon
+* [Getting to the point](http://schepers.cc/getting-to-the-point) - Bezier Curves, by by D. Schepers,   2010
+* [Make Responsive SVG Graphics and Infographics](https://www.sitepoint.com/make-responsive-svg-graphs-infographics) -  with Boxy Editor and CSS, unpolished demo by ALex Walker, 2016
+* [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/) - Responsive Design, by David Bushell, 2014
+* [SVG has more potential](https://madebymike.com.au/writing/svg-has-more-potential/) - for Responsive Design - by Mike, 2015
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)

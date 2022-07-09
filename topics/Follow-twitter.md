@@ -19,7 +19,7 @@ SVG Experts
 > Names are in the Twitter Handles
 
 * [Amelia Bellamy-Royds](https://twitter.com/AmeliasBrain) - Writer, web developer, & web standards developer.
-* [@JoniTrythall](https://twitter.com/JoniTrythall) - Book author on SVG,Excitable brand strategist
+* [@JoniTrythall](https://twitter.com/JoniTrythall) - Book author on SVG, Excitable brand strategist
 * [@ChrisCoyier](https://twitter.com/chriscoyier) - Ran CSS-Tricks 2007-2022.
 * [@Kensvisuals](https://twitter.com/kens_visuals)
 * [@LeaVerou](https://twitter.com/LeaVerou) - CSS Expert, Book author on CSS
@@ -33,7 +33,7 @@ SVG Experts
 * [@svgwg](https://twitter.com/svgwg) -SVG Working Group. Inactive on Twitter since 2014
 * [@DmitryBaranovsk](https://twitter.com/DmitryBaranovsk) - JavaScript Artist. Snap JS Library.
 * [@TheGraphicalWeb](https://twitter.com/TheGraphicalWeb) -conference, inactive since 2016
-* [@erikdahlstrom](https://twitter.com/erikdahlstrom) - [Artist?](http://xn--dahlstrm-t4a.net/)
+* [@erikdahlstrom](https://twitter.com/erikdahlstrom) - ex-chair of SVG WG, now [Artist?](http://xn--dahlstrm-t4a.net/)
 * [@heycam](https://twitter.com/heycam) - a software engineer currently working on WebKit.
 
 ---

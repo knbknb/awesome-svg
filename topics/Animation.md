@@ -1,5 +1,6 @@
 ## Animation
 > Blog Posts and Codepen.io collections on how to create animations using SVG, CSS, JS and SMIL (deprecated).
+> See also the ["Experiments"](Experiments.md) and the ["Videos"](Videos.md) Articles.
 
 SVG Animation Basics, with handcrafted SVG and plain-vanilla JS
 
@@ -9,6 +10,7 @@ SVG Animation Basics, with handcrafted SVG and plain-vanilla JS
 * [Animating Vectors with SVG](http://24ways.org/2013/animating-vectors-with-svg/) -  and JS. by Brian Suda, 2013
 * [The Simple Intro to SVG Animation](https://davidwalsh.name/svg-animation) - by Julian Shapiro, 2014.
 * [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/) - by Sam Norton, 2015.
+* [Adobe Illustrator’s SVG Interactivity Panel Explained](https://webdesign.tutsplus.com/tutorials/adobe-illustrators-svg-interactivity-panel-explained--cms-23600) - by Dennis Gaebel, 2015.
 
 Intermediate, but still plain SVG + CSS + JS
 
@@ -23,9 +25,12 @@ Intermediate, but still plain SVG + CSS + JS
 * [How to animate with Polyart](https://css-tricks.com/polylion/) - Advanced: fill a 3d wireframe, animated with SVG, by Dennis Gebel, 2015
 * [How to create a Buffer Animation](https://cssanimation.rocks/buffer/) - with CSS, 2015
 * [SVG drawing animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/) - animate the appearance of graphics or website elements, simulating the loading of them. By Mary Lou, 2013
+* [How SVG Shape Morphing Works](https://css-tricks.com/svg-shape-morphing-works/) - by Chris Coyier, 2014/2018
+* [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/) - by Ana Tudor 2015/2019
 
 SVG Animation with Illustrator and Snap.js
 
+* [How I created my first SVG](https://ihatetomatoes.net/how-i-created-my-first-svg/) - with Illustrator, 2014
 * [Animate SVG with CSS](https://jonsuh.com/blog/animate-svg-with-css/) - Jonathan Suh, 2014. USes Adobe Illustrator.
 * [How to Animate Festive SVG Icons With CSS](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658) - By Noah Blon, 2013. with Illustrator
 * [Animated SVG icons with Snap.svg](http://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/) - by Mary Lou, 2013.
@@ -37,6 +42,7 @@ SVG Animation with Illustrator and Snap.js
 * [SVG Dabbles - Tutorials about snap.svg](http://svg.dabbles.info/)
 * [SVG Path Animation with Jquery and Illustrator](https://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 * [The Playground Vector Animation Process](http://playgroundinc.com/blog/the-playground-vector-animation-process/) - animate have hand-draw animations that looked like they were pencil sketches. with Illustrator and Raphael.js
+* [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/) - in Illustrator, by Jenn Coyle,  2014
 
 GreenSock / GSAP.js
 
@@ -45,6 +51,8 @@ GreenSock / GSAP.js
 * [Greensock Introduces DrawSVG](https://ihatetomatoes.net/greensock-introduces-drawsvgplugin/)
 * [Jump Loader Animation with GSAP](http://tympanus.net/codrops/2015/03/25/jump-loader-animation-svg-gsap/) - [demo](https://tympanus.net/Tutorials/SVGLoaderGSAP/) by Chris Gannon, 2015
 * [Masking SVG Animations](https://medium.com/@gordonnl/stylised-line-animations-ded23320ffe5) - using clip-path, GreenSock by Nathan Gordon, 2013
+* [SVG animation research & GSAP](https://codepen.io/FabioG/post/svg-animation-research-gsap) - by FabioG, 2016
+* [Chris Gannon's](https://codepen.io/chrisgannon/) - codepen collections with GSAP.js
 
 ### Deprecated
 

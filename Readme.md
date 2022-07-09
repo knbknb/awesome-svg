@@ -32,8 +32,8 @@ Software
 
 SVG Education
 
-- 51 [Tutorials](topics/Tutorials.md)
-- 32 [Videos](topics/Videos.md)
+- 51 [Tutorials](topics/Tutorials.md) - blogposts, basic + intermediate
+- 32 [Videos](topics/Videos.md) - playlists and single Videos
 - 09 [Books](topics/Books.md) - released before 2014
 - 25 [Slide Decks](topics/Slide-decks.md) - I didn't study them all, actually
 - 22 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts

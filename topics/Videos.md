@@ -7,6 +7,7 @@
 * [A beginners guide to SVG](https://www.youtube.com/playlist?list=PL4-IK0AVhVjP0EeV513_b30lhGRTfMbYd) - Playlist of five  Videos, ~20 Min each, by Kevin Powell, 2018.
 * [SVG - Scalable Vector Graphics](https://www.youtube.com/watch?v=PQxtlY19kto&list=PLL8woMHwr36F2tCFnWTbVBQAGQ6nTcXOO) - 13 Videos, ~10 Min, by Jakob Jenkov, 2014.
 
+
 #### Single Videos
 
 ##### Inkscape
@@ -22,6 +23,7 @@
 * [Chris Wright - Surprise and delight: CSS + SVG](https://www.youtube.com/watch?v=0NFct2yOfiI)
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 * [Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
+* [You, Me & SVG ](https://www.pluralsight.com/courses/code-school-you-me-svg) - by Alyssa Nicoll. - Pluralsight Video Course, 1 hr.
 
 ##### SVG Animations
 
