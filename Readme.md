@@ -8,7 +8,7 @@
 
 SVG Features
 
-- 40 [SVG Animation](topics/Animation.md)
+- 40 [SVG Animation](topics/Animation.md) - blogposts and codepen.io collections
 - 14 [Filters](topics/Filters.md)- apply effects to SVG content, like blur, drop shadow, etc.
 - 10 [Gradients](topics/Gradients.md) - advanced feature
 - 19 [Patterns](topics/Patterns.md) - instead of backgrounds, use SVG patterns.
