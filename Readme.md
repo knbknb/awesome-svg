@@ -2,11 +2,21 @@
 # Awesome SVG
 
 > My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg) which is a bit outdated and contains a few items that are no longer around nor awesome.  
-> Most pages list software, articles, video tutorials, and other resources about the topics.
+
 
 - *number of links, topic*
 
-SVG Features
+#### SVG Education
+> Many of these topics explain the basics of SVG.
+
+- 28 [Tutorials](topics/Tutorials.md) - blogposts, basic + intermediate
+- 32 [Videos](topics/Videos.md) - playlists and single Videos
+- 09 [Books](topics/Books.md) - released before 2014
+- 25 [Slide Decks](topics/Slide-decks.md) - I didn't study them all, actually
+- 22 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts
+
+#### SVG Features
+> In-depth discussions of the basics mentioned above.
 
 - 40 [SVG Animation](topics/Animation.md) - blogposts and codepen.io collections
 - 14 [Filters](topics/Filters.md)- apply effects to SVG content, like blur, drop shadow, etc.
@@ -17,12 +27,13 @@ SVG Features
 - 14 [Text](topics/Text.md) - flowing and animated text
 - 07 [Masks and Clip-Paths](topics/Masks-clips.md) - advanced feature, no longer part of SVG standard
 
-Images
+#### Images
+> You can download images here.
 
-- 14 [SVG image Sites](topics/Downloads.md) - searchable sites. You can download images here.
-- 44 [Icon Collections](topics/Icons.md) - but also search engines for icons; libraries for icon styling; blogposts.
+- 14 [SVG image Sites](topics/Downloads.md) - Searchable sites. 
+- 44 [Icon Collections](topics/Icons.md) - but also search engines for icons; libraries for icon styling; a few blogposts.
 
-Software
+#### Software
 
 - 20 [SVG Software](topics/Software.md)- SVG Editors, free and commercial
 - 25 [Experiments](topics/Experiments.md) - Code Snippets, Components, GUI-Effects
@@ -30,18 +41,18 @@ Software
 - 32 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - articles, CLI tools, plugins for editors and libraries
 - 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt, Gulp plugins, outdated. Better see "Optimizing...".
 
-SVG Education
-
-- 51 [Tutorials](topics/Tutorials.md) - blogposts, basic + intermediate
-- 32 [Videos](topics/Videos.md) - playlists and single Videos
-- 09 [Books](topics/Books.md) - released before 2014
-- 25 [Slide Decks](topics/Slide-decks.md) - I didn't study them all, actually
-- 22 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts
-
-Other
+#### Other
 
 - 03 [Official](topics/Official.md) - official Specification Documents, mostly by W3C.
 - 06 [SVG and Accessibility](topics/Accessibility.md) - mostly about screen readers, and a bit about SVG metadata.
+
+#### Coming Soon
+> Underrepresented or missing topics
+
+- Low-level access to SVG elements: XML Parsing and Writing
+  - how to do you own fine-grained access
+  - More about SVG-specific issues of fonts and typography
+- Metadata and Licensing issues
 
 ## Thanks to
 

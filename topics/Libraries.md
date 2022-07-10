@@ -37,6 +37,7 @@
 * [wheelnav.js](https://github.com/softwaretailoring/wheelnav/stargazers) - circular animated menus, 686 stars on GitHub.
 * [VLEX](https://github.com/indus/VLEX) -  Vector Layout Expressions for SVG. 322 stars on GitHub.
 * [SvgVerlet.js](https://github.com/miketucker/svg-verlet.js) - A verlet-based physics library for SVG files written in Coffeescript. 171 stars on GitHub.
+* [Simple Inkscape Scripting](https://github.com/spakin/SimpInkScr) - with Python. Inkscape Extension, 105 Stars
 * [Landline](http://propublica.github.io/landline/) - JavaScript library that creates SVG maps from GeoJSON. 165 stars
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG) - Python module to create SVG files. 36 stars
 * [iPath](https://github.com/dr-jerry/iPath) - JS lib for scripting SVG, or DXF for CNC templates. 36 stars

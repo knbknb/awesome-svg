@@ -52,14 +52,13 @@
 
 * [Understanding SVG with Inkscape](https://www.youtube.com/watch?v=3jw_ED0_H3Q) - from 2006
 * [SVG 2 For the Artist and Developer with Tavmjong Bah](http://youtu.be/UL2-ZAyvXOM) - Inkscape Maintainer, 2014. With Slides.
-* [Simple Inkscape Scripting](https://github.com/spakin/SimpInkScr) - with Python
 * [Introduction to Inkscape's Geometry Constructions Tool](http://vimeo.com/14955725) - Intro to Alpha Version of the Feature that became "Live Path Effects"
 * [Inkscape Hints and Tips for making SVG files work in ScanNCut Canvas](https://www.youtube.com/watch?v=ktTunTp3Pl4) - For owners of Laser Cutters.
 
 ##### SVG History
 
-* Alex Danilo - [Walking the Line: An Exploration of SVG's Past, Present, and Future](https://www.youtube.com/watch?
-* W3C Standards and Implementors Panel - [The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
+* [Walking the Line: An Exploration of SVG's Past, Present, and Future](https://www.youtube.com/watch?v=GV3GSxbW_-A) - Alex Danilo, 2015, 34 min. Advanced, but bad audio quality.
+* [W3C Standards and Implementors Panel](http://youtu.be/TLE3_nmcbWc) - The Graphical Web, 2014
 
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)

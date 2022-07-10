@@ -1,5 +1,5 @@
 ## Experiments
-> Everyone likes experiments, why not some of them?
+> Codesnippets, GUI-Widgets, Codepen.io collections...
 
 Components
 

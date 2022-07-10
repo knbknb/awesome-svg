@@ -1,20 +1,20 @@
 ## SVG Software
 
-> Most applications listed here are available for PCs running Intel CPUs, some also as Apps for Android/ChromeOS and iOS/iPadOS, or as Cloud Apps.
+> Most applications listed here are available for Intel PCs. Find also some Apps for Android/ChromeOS and iOS/iPadOS, or Software-as-a-Service Apps, Cloud Apps.
 
 ### My Personal Preference
 
 For designing simple infographics and symbols for the web, I use a combined workflow of Libreoffice and Inkscape.
   
-* [Inkscape](https://inkscape.org/en/) - Free, Powerful, Ongoing in 2022. but sometimes limited, e.g. when working with text, inconvenient to use.
-* [Libreoffice Draw](https://www.libreoffice.org/discover/draw/) and Libreoffice Impress can export SVGs if done right
-
+* [Inkscape](https://inkscape.org/en/) - Free, Powerful. Ongoing development in 2022. Has some limitations, e.g. inconvenient to use when formatting text-objects.
+* [Libreoffice Draw](https://www.libreoffice.org/discover/draw/) and Libreoffice Impress are better with text-objects, and can export good SVG code, if done right.
+* [Exporting SVG](https://www.sitepoint.com/designers-guide-working-with-svg/) - More info about SVG-Editor oddities, by Alex Walker, 2014
 ### More Free and Open Source Software, [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 > See also [Optimizing, Fallbacks and Tools](https://github.com/knbknb/awesome-svg/blob/updates-2022/topics/Optimization-tools.md) page.
 
 * [SVGBob-Editor](https://ivanceras.github.io/svgbob-editor/) - convert ASCII-Art into SVG. 3.2k Stars on Github
 * [Boxy SVG](https://boxy-svg.com/main.html) - basic Editor for SVG. Desktop-App for Linux and MacOS
-* [Inkpad](https://github.com/sprang/Inkpad) - FOSS for the iPad, 2.6. stars, but abandoned since ~6 years. 2.6 stars
+* [Inkpad](https://github.com/sprang/Inkpad) - FOSS for the iPad, but abandoned since ~6 years. 2.6k stars
 * [SVGEdit](https://svg-edit.github.io/svgedit/) - Online Vector Editor
 * [Animatron](http://www.animatron.com) - for creating Videos(?). Not really SVG-focused.
 * [ssspill](https://fffuel.co/ssspill/) - In-Browser SVG generator for a stylistic spill/melted effect, (patterns + shapes)

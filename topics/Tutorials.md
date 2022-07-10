@@ -6,6 +6,7 @@ SVG Basics
 
 * [Using SVG](https://css-tricks.com/using-svg/) - Why at all? by Chris Coyier, 2015/2019
 * [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/) - by Craig Buckler, 2021
+* [Exporting SVG](https://www.sitepoint.com/designers-guide-working-with-svg/) - More info about SVG-Editor oddities, by Alex Walker, 2014
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html) - State of the Union, by Amelia B.Roy
 * [SVG Document Structure](https://unicorn-ui.com/blog/svg-document-structure.html) - by Rob Levin, 2015
 * [A Look At SVG viewBox and viewport](https://jonitrythall.com/svg-viewbox-and-viewport) - by Joni Tryhall, 2014
