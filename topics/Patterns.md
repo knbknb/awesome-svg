@@ -3,7 +3,8 @@
 
 Blogposts and Reference Documentation
 
-* [Basic of SVG Patterns](http://apike.ca/prog_svg_patterns.html) - Blogpost by Matthew Bystedt, 2014
+* [6 Clever SVG Pattern Generators for Your Next UX Design](https://www.sitepoint.com/6-incredible-svg-pattern-generators/) - with Linklist, by Alex Walker, 2022
+* [Basics of SVG Patterns](http://apike.ca/prog_svg_patterns.html) - Blogpost by Matthew Bystedt, 2014
 * [How to use SVG Patterns](http://designmodo.com/svg-patterns/) - Blogpost by Joni Trythall, 2014
 * [SVG fill patterns](http://tutorials.jenkov.com/svg/fill-patterns.html) - by Jakob Jenkov
 * [MDN about SVG Patterns](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Patterns)

@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 # Awesome SVG
 
-> My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg) which is a bit outdated and contains a few items that are no longer around nor awesome.  
+> My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg). That list was a bit outdated and contained a few items that are no longer around nor awesome.  
 
 
 - *number of links, topic*
@@ -10,7 +10,7 @@
 > Many of these topics explain the basics of SVG.
 
 - 28 [Tutorials](topics/Tutorials.md) - blogposts, basic + intermediate
-- 32 [Videos](topics/Videos.md) - playlists and single Videos
+- 32 [Videos](topics/Videos.md) - playlists and single videos
 - 09 [Books](topics/Books.md) - released before 2014
 - 25 [Slide Decks](topics/Slide-decks.md) - I didn't study them all, actually
 - 22 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts
@@ -49,9 +49,13 @@
 #### Coming Soon
 > Underrepresented or missing topics
 
+- More about cross-browser issues, e.g., for fonts and typography
 - Low-level access to SVG elements: XML Parsing and Writing
-  - how to do you own fine-grained access
-  - More about SVG-specific issues of fonts and typography
+  - how to do your own fine-grained access
+- Interactive SVG Editing
+  - Inkscape tips and tricks for example
+  - Preferred workflows and custom toolchains for webprogamming, graphic design, Making
+  - Integration into build-systems and tools, e.g. webpack
 - Metadata and Licensing issues
 
 ## Thanks to

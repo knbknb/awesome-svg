@@ -13,7 +13,7 @@ For designing simple infographics and symbols for the web, I use a combined work
 > See also [Optimizing, Fallbacks and Tools](https://github.com/knbknb/awesome-svg/blob/updates-2022/topics/Optimization-tools.md) page.
 
 * [SVGBob-Editor](https://ivanceras.github.io/svgbob-editor/) - convert ASCII-Art into SVG. 3.2k Stars on Github
-* [Boxy SVG](https://boxy-svg.com/main.html) - basic Editor for SVG. Desktop-App for Linux and MacOS
+* [Boxy SVG](https://boxy-svg.com/main.html) - basic editor for SVG. Desktop-App for Linux and MacOS. For web designers and web developers. Generates clean SVG code by default.
 * [Inkpad](https://github.com/sprang/Inkpad) - FOSS for the iPad, but abandoned since ~6 years. 2.6k stars
 * [SVGEdit](https://svg-edit.github.io/svgedit/) - Online Vector Editor
 * [Animatron](http://www.animatron.com) - for creating Videos(?). Not really SVG-focused.

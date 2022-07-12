@@ -1,5 +1,5 @@
 ## Official Sites
-> Specification and Documentation of SVG
+> Specifications and Normative References
 
 * [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [W3C's SVG WG](http://www.w3.org/Graphics/SVG/) - 2016

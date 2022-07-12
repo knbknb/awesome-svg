@@ -1,5 +1,5 @@
 ## Libraries
-> Some libraries to help us to work with SVG.
+> Mainly for JavaScript.
 
 #### D3.js - related libraries
 

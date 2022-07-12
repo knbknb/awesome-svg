@@ -1,12 +1,12 @@
 ## Responsive Design with SVGs
-> How to use the ability of "Scalable" to create different interactions for multiple devices.
+> How to use create adaptive interactions for multiple display sizes.
 
 Tutorials
 
 * [Design the Web: Responsive SVG Images](https://www.linkedin.com/learning/design-the-web-responsive-svg-images) - on LinkedIn, 22 min, from 2015.
 * [How to Scale SVG](https://css-tricks.com/scale-svg/), CSS-tricks, updated 2022.
 * [Make SVG Responsive](http://thenewcode.com/744/Make-SVG-Responsive) - Article by Dudley Storey, 2015
-* [Making SVG's responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/) - By Sara Soueidam 2014
+* [Making SVG's responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/) - By Sara Soueidan, 2014
 * [Media queries in SVG images](https://cloudfour.com/thinks/media-queries-in-svg-images/) - you can embed media queries inside SVG images. By Jason Grigsby, 2013
 * [Responsive Logo Composition With SVG](https://cloudfour.com/thinks/responsive-logo-composition-with-svg/) - by  Tyler Sticka, 2016
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](https://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens) - by Jeremy Frank, UI Development Director, 2015

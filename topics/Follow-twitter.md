@@ -1,5 +1,5 @@
 ## Follow on Twitter
-> Notable CSS and SVG Experts. Selection from the community, and the grouping here, is a bit arbitrary. There are many other very knowledgeable people around.
+> Notable CSS and SVG Experts. The selection and the grouping here are a bit arbitrary. There are many more, very knowledgeable, people around.
 
 Specification Authors
 
@@ -28,6 +28,7 @@ SVG Experts
 * [@Yoksel](https://twitter.com/yoksel_en) - CSS and SVG lover : )
 
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/) - Homepage of "Awesome SVG"-List Creator W. Justen.
+
 ##### Inactive?
 
 * [@svgwg](https://twitter.com/svgwg) -SVG Working Group. Inactive on Twitter since 2014

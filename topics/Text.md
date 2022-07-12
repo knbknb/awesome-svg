@@ -1,5 +1,5 @@
 ## Text
-> SVG is great for create responsive texts and texts with filters.
+> SVG is great for creating animated text, or responsive text.
 
 BlogPosts and Tutorials
 

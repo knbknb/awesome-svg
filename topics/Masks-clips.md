@@ -1,5 +1,5 @@
-## Masks and Clip-paths
-> clip-path Another great feature that SVG supports, take a look.
+## Masks and Clip-Paths
+> Advanced editing
 
 * [Cutting Inner Part Element Using Clip-Path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) - by Ana Tudor, updated 2021
 * [Clip-path Generator](https://cssplant.com/clip-path-generator) - Interactive Tool
