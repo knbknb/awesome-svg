@@ -68,9 +68,9 @@ All the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contr
 
 ## Other Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome](https://github.com/sindresorhus/awesome) - 209k stars - frequently updated, but many obsolete references
+- [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 29.1k stars (Updated quarterly)
+- [Awesome-awesome](https://github.com/emijrp/awesome-awesome) - 2.1k stars - from 2021, updated yearly
 
 ## License
 
