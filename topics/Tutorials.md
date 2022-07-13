@@ -5,7 +5,8 @@
 SVG Basics
 
 * [Using SVG](https://css-tricks.com/using-svg/) - Why at all? by Chris Coyier, 2015/2019
-* [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/) - by Craig Buckler, 2021
+* [Canvas vs SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg/) - by Marietta A. Perna, 2021.
+* [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/) - as `img`, `object`, `iframe` or `embed`, by Craig Buckler, 2021
 * [The Ultimate Guide to SVG](https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) -by Ezequiel Bruni, 2015
 * [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html) - single big infographic from 2015
 * [What Is SVG And Why Do You Care?](https://unicorn-ui.com/blog/what-is-svg-and-why-do-you-care.html) - by Rob Levin, 2015
@@ -19,7 +20,7 @@ Icons, Icons, Icons
 Intermediate SVG
 > These articles often start with the basics and then go into more specialized topics.
 
-* [Exporting SVG](https://www.sitepoint.com/designers-guide-working-with-svg/) - More info about SVG-Editor oddities, by Alex Walker, 2014
+* 
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html) - State of the Union, by Amelia B.Roy
 * [SVG Document Structure](https://unicorn-ui.com/blog/svg-document-structure.html) - by Rob Levin, 2015
 * [A Look at SVG viewBox and viewport](https://jonitrythall.com/svg-viewbox-and-viewport) - by Joni Tryhall, 2014
@@ -42,6 +43,6 @@ Editors and Tools
 
 * [A Guide To Building SVG Maps From Natural Earth Data](http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/) - Interactive Maps with QGis and Python, by Chris Youderian
 * [Make Responsive SVG Graphics and Infographics](https://www.sitepoint.com/make-responsive-svg-graphs-infographics) -  with Boxy Editor and CSS, unpolished demo by ALex Walker, 2016
-
+* [The Designer’s Guide to Working with SVG – Pt 1](https://www.sitepoint.com/designers-guide-working-with-svg/) - Exporting SVG with Inkscape, Illustator, and others. By Alex Walker, 2014
 ---
 [Back to Home](https://github.com/knbknb/awesome-svg)
