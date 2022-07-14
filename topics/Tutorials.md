@@ -5,12 +5,11 @@
 SVG Basics
 
 * [Using SVG](https://css-tricks.com/using-svg/) - Why at all? by Chris Coyier, 2015/2019
-* [Canvas vs SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg/) - by Marietta A. Perna, 2021.
-* [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/) - as `img`, `object`, `iframe` or `embed`, by Craig Buckler, 2021
+* [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html) - single big PNG infographic from 2015. Why use SVG?
+* [How to Add Scalable Vector Graphics to Your Web Page](http://www.sitepoint.com/add-svg-to-web-page/) - as `svg`, `img`, `object`, `iframe` or `embed`, by Craig Buckler, 2021
 * [The Ultimate Guide to SVG](https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) -by Ezequiel Bruni, 2015
-* [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html) - single big infographic from 2015
 * [What Is SVG And Why Do You Care?](https://unicorn-ui.com/blog/what-is-svg-and-why-do-you-care.html) - by Rob Levin, 2015
-* [Why arent you using SVG?](https://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414) - by  Jonathan Cutrell, 2012
+* [Why aren't you using SVG?](https://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414) - by  Jonathan Cutrell, 2012
 
 Icons, Icons, Icons
 
@@ -20,8 +19,8 @@ Icons, Icons, Icons
 Intermediate SVG
 > These articles often start with the basics and then go into more specialized topics.
 
-* 
-* [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html) - State of the Union, by Amelia B.Roy
+* [Canvas vs SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg/) - by Marietta A. Perna, 2021.
+* [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html) -  Technical article about the beginnings of SVG, by Amelia B.Roy, 2014.
 * [SVG Document Structure](https://unicorn-ui.com/blog/svg-document-structure.html) - by Rob Levin, 2015
 * [A Look at SVG viewBox and viewport](https://jonitrythall.com/svg-viewbox-and-viewport) - by Joni Tryhall, 2014
 * [Move And Scale SVG Graphics with the viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/) - by Steven Bradley, 2015
