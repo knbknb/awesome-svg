@@ -38,6 +38,7 @@ Software As A Service Offerings
 * [SVG Editor Tools](https://github.com/duopixel/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 * [SVG OMG](https://jakearchibald.github.io/svgomg/) - Online editor
 * [WebFrames](https://www.svachon.com/webframes/) - Create full-color, SVG-based animated images for every browser. Better than animated gifs.
+* [URL-Encoder](http://yoksel.github.io/url-encoder) - Turn SVG into Base64 Gibberish, as `background-image`. by Yoksel, 916 Stars on [GitHub](https://github.com/yoksel/url-encoder/), 2021.
 
 Fallbacks
 

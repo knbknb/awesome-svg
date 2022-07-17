@@ -1,8 +1,9 @@
 ## Books
-> Some books about SVG, released before 2014
+> Some books about SVG, most of them released before 2014
 
 Introductions
 
+* [Practical SVG](https://www.sitepoint.com/premium/books/practical-svg/), by Chris Coyier, 2016.
 * [Interactive Data Visualization for the Web by Scott Muray - 2013](http://shop.oreilly.com/product/0636920026938.do) - HTML, CSS, JavaScript, SVG, D3 basics
 * [Sams Teach Yourself SVG in 24 Hours by Micah Laaker](https://www.amazon.com/Sams-Teach-Yourself-SVG-Hours/dp/0672322900) - "translates the SVG concepts into vocabulary of the traditional designer who is used to tools like Illustrator, Photoshop, WebDraw, or CorelDraw..."
 * [SVG Pocket Guide by Joni Trythall - 2014](http://svgpocketguide.com/) - Audio version available

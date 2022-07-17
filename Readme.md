@@ -49,15 +49,20 @@
 #### Coming Soon
 > Underrepresented or missing topics
 
-- More about cross-browser issues, e.g., for fonts and typography
-- Low-level access to SVG elements: XML Parsing and Writing
+- More about interoperability issues, e.g., for fonts and typography, scaling/viewBox
+- SVG and modern IT Security measures
+  - For example, Scripting and certain CSS constructs such as `url()` and `@import` are not always supported
+  - CSP (Content Security Policy) headers might interfere with SVG features
+  - SVG support in various popular CMS systems and thir built-in HTML editors
+- Low-level access to SVG elements: XML Parsing and XML-Writing
   - how to do your own fine-grained access
 - Interactive SVG Editing
   - Inkscape tips and tricks for example
   - Preferred workflows and custom toolchains for webprogamming, graphic design, Making
   - Integration into build-systems and tools, e.g. webpack
-- Metadata and Licensing issues
-
+- SVG Metadata, Attribution and Licensing (Creative Commons, CC-BY, etc.)
+- Vectorization of images, e.g. JPG to SVG, for web use
+- Principles of Data Visualization in general
 ## Thanks to
 
 All the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors) to the original repository of which this repo is a fork of.
