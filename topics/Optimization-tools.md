@@ -1,4 +1,4 @@
-## Optimizing, Fallbacks and Tools
+## Optimizers, Plugins, and CLI-Tools
 > Optimize your SVG, support older browsers and more.
 
 Articles and Blog Posts
@@ -7,6 +7,8 @@ Articles and Blog Posts
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/) - Article by Sara Soueidan, 2014.
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79) -  Inkscape, 2010
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg) - Short article
+* [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) - Article updated 2020
+* [How to Scale SVG](https://css-tricks.com/scale-svg/), related, updated 2022.
 
 Command Line Tools
 
@@ -22,11 +24,12 @@ Command Line Tools
 
 Plugins
 
-* [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints) - Extension for Brackets Editor, 2014.
-* [SVG Preview](https://github.com/peterflynn/svg-preview) - for Brackets
+* [svg-screenshots](https://github.com/felixfbecker/svg-screenshots) - Interactive screenshot tool, generates SVG from HTML DOM. Chrome/Firefox Extension, 2021. 525 stars.
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW) - SVG Optimizer for Adobe Illustrator
 * [PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/) - Script for Photoshop
+* [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints) - Extension for Brackets Editor, 2014.
+* [SVG Preview](https://github.com/peterflynn/svg-preview) - for Brackets
 
 Software As A Service Offerings
 
@@ -42,12 +45,10 @@ Software As A Service Offerings
 
 Fallbacks
 
-* [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) - Article updated 2020
-* [How to Scale SVG](https://css-tricks.com/scale-svg/), related, updated 2022.
-
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic) - for jQuery, abandoned 2015
 
 SMIL and similar
+> SMIL is deprecated.
 
 * [FakeSMILE](http://leunen.me/fakesmile/index.html) - A JS/SMIL library that allows you to animate web content with SVG.
 * [smil2css](https://github.com/webframes/smil2css) - - SVG animation fallback supporting IE10+ and `<noscript>`
