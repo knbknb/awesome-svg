@@ -29,9 +29,7 @@ For designing simple infographics and symbols for the web, I use a combined work
 * [CleverBrush](https://www.cleverbrush.com) - Online Vector Editor, free to use
 * [Concepts](http://concepts.tophatch.com) - Mobile App
 * [Gravit Designer](https://www.designer.io/en/)
-* [iDraw](http://www.indeeo.com/idraw/)
 * [Sketch](https://sketch.com)
-* [Webcode](http://www.webcodeapp.com/)
 
 > The commercial software is well-suited for handling big, complex SVG graphics, in various application domains, such as engineering, architecture, and design.
 

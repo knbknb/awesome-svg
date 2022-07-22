@@ -9,7 +9,7 @@ Basics
 
 Intermediate
 
-* [Animating SVG gradients](http://designmodo.com/animate-svg-gradients/)- 2 advanced techniques combined
+* [Animating SVG gradients](https://designmodo.com/animate-svg-gradients/) - 2 advanced techniques combined
 * [SVG Gradient Browser Cross-Browser Issues](https://jonitrythall.com/svg-gradient-browser-quirks/) - by Joni Trythall, 2014
 
 Old

@@ -24,9 +24,9 @@
 * [Highcharts](https://www.highcharts.com/) - JavaScript Charting Framework, 10.7k stars on GitHub
 * [Two.js](http://jonobr1.github.io/two.js/) - A renderer agnostic two-dimensional drawing api for the web. 7.7k stars on GitHub. Can run in Headless Environments
 * [Animate Plus](https://github.com/bendc/animateplus) -  Tiny animation module for the modern web   5.9k stars on GitHub, 2018
-* [Walkway](http://www.connoratherton.com/walkway) - An easy way to animate SVG images consisting of line, path, and polyline elements. 4.4k stars on GitHub. 2016
-* [Lazy Line Painter](http://lazylinepainter.info/) - A Modern JS library for SVG path animation. 1.9 k Stars on [GitHub](https://github.com/camoconnell/lazy-line-painter)
-* [SVGnest](https://github.com/Jack000/SVGnest) - A browser-based vector nesting tool. 1.9k. Demo: [http://svgnest.com](http://svgnest.com) (requires webworker support).
+* [Walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate SVG images consisting of line, path, and polyline elements. 4.4k stars on GitHub. 2016
+* [Lazy Line Painter](https://github.com/camoconnell/lazy-line-painter) - A Modern JS library for SVG path animation. 1.9 k Stars
+* [SVGnest](https://github.com/Jack000/SVGnest) - A browser-based vector nesting tool. 1.9k. Demo: [https://svgnest.com](https://svgnest.com) (requires webworker support).
 * [Vivid.js](https://webkul.github.io/vivid/) - Ready to use Free and Open Source SVG Icons Pack JavaScript Library. 90 icons. 1.9k stars on GitHub.
 * [Path JS](https://github.com/andreaferretti/paths-js) - a library to generate SVG paths, allowing you to create your own charts using a functional and testable API. 1.7k stars on GitHub
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks. 1.5k stars on GitHub.

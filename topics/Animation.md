@@ -42,7 +42,7 @@ SVG Animation with Illustrator and Snap.js
 * [SVG Dabbles - Tutorials about snap.svg](http://svg.dabbles.info/)
 * [SVG Path Animation with Jquery and Illustrator](https://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 * [The Playground Vector Animation Process](http://playgroundinc.com/blog/the-playground-vector-animation-process/) - animate have hand-draw animations that looked like they were pencil sketches. with Illustrator and Raphael.js
-* [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/) - in Illustrator, by Jenn Coyle,  2014
+* [How to Style and Animate SVG Elements with CSS](https://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/) - in Illustrator, by Jenn Coyle,  2014
 
 GreenSock / GSAP.js
 
@@ -58,7 +58,7 @@ GreenSock / GSAP.js
 
 SMIL - Deprecated in favor of CSS animations
 
-* [Noah Blon's Codepen](https://codepen.io/noahblon/)- Noah Blon, CSS and SVG Expert see "tags" for SMIL
+* [Noah Blon's Codepen](https://codepen.io/noahblon/) - Noah Blon, CSS and SVG Expert see "tags" for SMIL
 * [MDN about Animation with SMIL](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL)
 * [A Guide to SVG Animations (SMIL)](https://css-tricks.com/guide-svg-animations-smil/) - by Sara Soueidan, 2014/2018
 * [Adam Guttentag's Codepen](https://codepen.io/guttentag/blog/) - see "tags" for SMIL

@@ -5,7 +5,7 @@ Icon Collections
 
 * [Material Design Icons By Google](https://github.com/google/material-design-icons) -  [Search](https://fonts.google.com/icons?icon.set=Material+Icons) - 46k Stars on GitHub
 * [Feather](https://feathericons.com) - Simply beautiful open source icons, 21.8k stars on GitHub.
-* [Loaders with just SVG](http://samherbert.net/svg-loaders/) - Loading icons and small animations built with pure SVG. 5.4k stars on GitHub
+* [Loaders with just SVG](https://samherbert.net/svg-loaders/) - Loading icons and small animations built with pure SVG. 5.4k stars on GitHub
 * [Evil Icons](http://evil-icons.io/) -  specifically for web projects. 5k stars on GitHub.
 * [SVG-Spinners](https://github.com/n3r4zzurr0/svg-spinners) - ~20 Loading icons and small animations built with pure SVG. 3.7k stars on GitHub.
 * [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
