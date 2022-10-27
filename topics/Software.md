@@ -23,11 +23,14 @@ For designing simple infographics and symbols for the web, I use a combined work
 
 ### Commercial Software - available as subscription or purchase
 
+> Sometimes, with a free tier.
+
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Affinity Designer](https://affinity.serif.com/)
 * [Autodesk Graphic](https://graphic.com/)
 * [CleverBrush](https://www.cleverbrush.com) - Online Vector Editor, free to use
 * [Concepts](http://concepts.tophatch.com) - Mobile App
+* [Figma](https://www.figma.com) - In-Browser Editor, can export Layers as SVG
 * [Gravit Designer](https://www.designer.io/en/)
 * [Sketch](https://sketch.com)
 

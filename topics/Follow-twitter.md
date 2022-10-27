@@ -1,13 +1,14 @@
 ## Follow on Twitter
 > Notable CSS and SVG Experts. The selection and the grouping here are a bit arbitrary. There are many more, very knowledgeable, people around.
 
-Specification Authors
+Specification Co-Authors
 
 * [@dirkschulze](https://twitter.com/dirkschulze) - SVG WG chair.
-* [@svgeesus](https://twitter.com/svgeesus) - Chris Lilley, "Father of SVG". @W3C
+* [@svgeesus](https://twitter.com/svgeesus) - Chris Lilley, "Father of SVG" in the 90s. Now CSS Color co-editor @W3C
 * [@shepazu](https://twitter.com/shepazu) - Doug Schepers • dataviz, SVG expert
 * [@daviddaileysru](https://twitter.com/daviddaileysru) - W3C WB staff, Professor of Computer Science, wrote books on SVG
 * [@jkphl](https://twitter.com/jkphl) - Accessibility Expert
+* many more...
 
 
 Library Writers

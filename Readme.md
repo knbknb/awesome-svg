@@ -1,12 +1,13 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 # Awesome SVG
 
 > My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg). That list was a bit outdated and contained a few items that are no longer around nor awesome.  
 
-
 - *number of links, topic*
 
 #### SVG Education
+
 > Many of these topics explain the basics of SVG.
 
 - 28 [Tutorials](topics/Tutorials.md) - blogposts, basic + intermediate
@@ -16,6 +17,7 @@
 - 22 [Follow on Twitter](topics/Follow-twitter.md) - notable SVG and CSS experts
 
 #### SVG Features
+
 > In-depth discussions of the basics mentioned above.
 
 - 40 [SVG Animation](topics/Animation.md) - blogposts and codepen.io collections
@@ -28,9 +30,10 @@
 - 07 [Masks and Clip-Paths](topics/Masks-clips.md) - advanced feature, no longer part of SVG standard
 
 #### Images
+
 > You can download images here.
 
-- 14 [SVG image Sites](topics/Downloads.md) - Searchable sites. 
+- 14 [SVG image Sites](topics/Downloads.md) - Searchable sites.
 - 44 [Icon Collections](topics/Icons.md) - but also search engines for icons; libraries for icon styling; a few blogposts.
 
 #### Software
@@ -47,22 +50,39 @@
 - 06 [SVG and Accessibility](topics/Accessibility.md) - mostly about screen readers, and a bit about SVG metadata.
 
 #### Coming Soon
+
 > Underrepresented or missing topics
+  
+##### SVG graphics inside of web pages 
 
 - More about interoperability issues, e.g., for fonts and typography, scaling/viewBox
 - SVG and modern IT Security measures
   - For example, Scripting and certain CSS constructs such as `url()` and `@import` are not always supported
   - CSP (Content Security Policy) headers might interfere with SVG features
   - SVG support in various popular CMS systems and thir built-in HTML editors
-- Low-level access to SVG elements: XML Parsing and XML-Writing
-  - how to do your own fine-grained access
-- Interactive SVG Editing
-  - Inkscape tips and tricks for example
-  - Preferred workflows and custom toolchains for webprogamming, graphic design, Making
-  - Integration into build-systems and tools, e.g. webpack
+
+##### SVG and XML
+
+- Low-level access to SVG elements: XML machinery
+  - DOM Scripting
+  - XML Serialization
+
+##### Interactive SVG Editing
+
+- Inkscape tips and tricks for example
+- Preferred workflows and custom toolchains for webprogamming, graphic design, Making (e.g. 3D printing), etc.
+- Integration into build-systems and tools, e.g. webpack
+
+##### Wider issues
+
 - SVG Metadata, Attribution and Licensing (Creative Commons, CC-BY, etc.)
-- Vectorization of images, e.g. JPG to SVG, for web use
+- Vectorization of images (Conversion to vector graphics, e.g. JPG to SVG)
+  - Automated
+  - Interactive
+  - AI-Assisted image vectorization
+
 - Principles of Data Visualization in general
+
 ## Thanks to
 
 All the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors) to the original repository of which this repo is a fork of.
