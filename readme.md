@@ -5,8 +5,10 @@
 
 > My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg). That list was a bit outdated and contained a few items that are no longer around nor awesome.  
 
+## Contents
+
 <!-- markdownlint-disable MD036 -->
-> *number of links, topic*
+### (*number of links, topic*)
 
 #### SVG Education
 
