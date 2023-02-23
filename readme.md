@@ -87,21 +87,21 @@
 
 - Principles of Data Visualization in general
 
-## Thanks to
+### Thanks to
 
 All the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors) to the original repository of which this repo is a fork of.
 
-## Contributing
+### Contributing
 
  [Please contribute to the original fork](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md), not here. This repo is my personal copy.
 
-## Other Awesome Lists
+### Other Awesome Lists
 
 - Awesome - 209k stars - frequently updated, but many obsolete references
 - [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 29.1k stars, updated quarterly.
 - [Awesome-awesome](https://github.com/emijrp/awesome-awesome) - 2.1k stars, from 2021, updated yearly.
 
-## Previous_License
+### Previous_License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
