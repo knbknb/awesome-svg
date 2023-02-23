@@ -1,7 +1,7 @@
 <!--markdownlint-disable MD041 -->
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome SVG
+Awesome SVG
 
 > My personal, opinionated 2022 fork from the ["official" awesome list by Willian Justen](https://github.com/willianjusten/awesome-svg). That list was a bit outdated and contained a few items that are no longer around nor awesome.  
 
