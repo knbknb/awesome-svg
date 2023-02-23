@@ -54,7 +54,7 @@
 
 > Underrepresented or missing topics
   
-##### SVG graphics inside of web pages 
+##### SVG graphics inside of web pages
 
 - More about interoperability issues, e.g., for fonts and typography, scaling/viewBox
 - SVG and modern IT Security measures
