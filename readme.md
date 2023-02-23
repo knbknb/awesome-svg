@@ -1,3 +1,4 @@
+<!--markdownlint-disable MD041 -->
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Awesome SVG
@@ -42,7 +43,7 @@
 - 25 [Experiments](topics/Experiments.md) - Code Snippets, Components, GUI-Effects
 - 43 [Libraries](topics/Libraries.md) - mostly JavaScript, ordered by popularity on GitHub
 - 32 [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md) - articles, CLI tools, plugins for editors and libraries
-- 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt, Gulp plugins, outdated. Better see "Optimizing...".
+- 18 [JavaScript/Node Modules](topics/Node-modules.md) - only Grunt, Gulp plugins, outdated. Better see "Optimizing..."
 
 #### Other
 
@@ -79,7 +80,7 @@
 - Vectorization of images (Conversion to vector graphics, e.g. JPG to SVG)
   - Automated
   - Interactive
-  - AI-Assisted image vectorization
+  - AI-assisted image vectorization
 
 - Principles of Data Visualization in general
 
@@ -97,7 +98,7 @@ All the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contr
 - [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 29.1k stars (Updated quarterly)
 - [Awesome-awesome](https://github.com/emijrp/awesome-awesome) - 2.1k stars - from 2021, updated yearly
 
-## License
+## Previous_License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
